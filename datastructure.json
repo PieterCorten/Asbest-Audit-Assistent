@@ -30,8 +30,8 @@
   {
     "url": "fichebibliotheek",
     "endpoint": "fichebibliotheek",
-    "parameter": "Fichebibliotheek",
-    "description": "Bronfiche niet gebruikt",
+    "parameter": "Bronfiche",
+    "description": "Eerste bronfiche niet gebruikt",
     "error": "Fiche20",
     "defaults": {
       "nc": "Ja",
