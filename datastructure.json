@@ -1,0 +1,44 @@
+[
+  {
+    "url": "info/details",
+    "endpoint": "algemene-details",
+    "parameter": "Vloeroppervlakte",
+    "description": "Vloeroppervlakte te laag",
+    "error": "Alge90",
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "De vloeroppervlakte werd te laag ingeschat",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "url": "info/details",
+    "endpoint": "algemene-details",
+    "parameter": "Vloeroppervlakte",
+    "description": "Vloeroppervlakte te laag (categorie aangepast)",
+    "error": "Alge90",
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "De vloeroppervlakte werd te laag ingeschat",
+      "category": 0,
+      "explanation": "Maakt niet uit."
+    }
+  },
+  {
+    "url": "fichebibliotheek",
+    "endpoint": "fichebibliotheek",
+    "parameter": "Fichebibliotheek",
+    "description": "Bronfiche niet gebruikt",
+    "error": "Fiche 20",
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "Bronfiche vergeten",
+      "category": 3,
+      "explanation": ""
+    }
+  }
+]
