@@ -60,6 +60,21 @@
     }
   },
   {
+    "url": ["bronfiche", "conclusie"],
+    "endpoint": "bronfiche",
+    "parameter": "Test",
+    "description": "Test",
+    "error": "Bron19",
+    "modifyClarification": false,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "Test",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
     "url": "fichebibliotheek",
     "endpoint": "fichebibliotheek",
     "parameter": "Bronfiche",
