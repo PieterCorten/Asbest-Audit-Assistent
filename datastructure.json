@@ -32,7 +32,7 @@
     "endpoint": "fichebibliotheek",
     "parameter": "Fichebibliotheek",
     "description": "Bronfiche niet gebruikt",
-    "error": "Fiche 20",
+    "error": "Fiche20",
     "defaults": {
       "nc": "Ja",
       "impact": "Ja",
