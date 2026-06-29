@@ -10,7 +10,7 @@
       "nc": "Ja",
       "impact": "Nee",
       "clarification": "Het bouwjaar werd verkeerd overgenomen.",
-      "category": 3,
+      "category": 4,
       "explanation": ""
     }
   },
@@ -25,7 +25,7 @@
       "nc": "Ja",
       "impact": "Nee",
       "clarification": "De vloeroppervlakte werd te laag ingeschat",
-      "category": 3,
+      "category": 4,
       "explanation": ""
     }
   },
@@ -40,7 +40,7 @@
       "nc": "Ja",
       "impact": "Nee",
       "clarification": "De vloeroppervlakte werd te hoog ingeschat",
-      "category": 3,
+      "category": 4,
       "explanation": ""
     }
   },
@@ -54,7 +54,7 @@
     "defaults": {
       "nc": "Ja",
       "impact": "Nee",
-      "clarification": "De vloeroppervlakte werd te laag ingeschat",
+      "clarification": "De vloeroppervlakte werd mogelijks te laag ingeschat",
       "category": 0,
       "explanation": "Who cares"
     }
