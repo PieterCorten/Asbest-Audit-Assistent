@@ -5,10 +5,10 @@
     "parameter": "Vloeroppervlakte",
     "description": "Vloeroppervlakte te laag",
     "error": "Alge90",
+    "modifyClarification": false,
     "defaults": {
       "nc": "Ja",
       "impact": "Nee",
-      "modifyClarification": false,
       "clarification": "De vloeroppervlakte werd te laag ingeschat",
       "category": 3,
       "explanation": ""
@@ -20,10 +20,10 @@
     "parameter": "Vloeroppervlakte",
     "description": "Vloeroppervlakte te hoog",
     "error": "Alge90",
+    "modifyClarification": false,
     "defaults": {
       "nc": "Ja",
       "impact": "Nee",
-      "modifyClarification": false,
       "clarification": "De vloeroppervlakte werd te hoog ingeschat",
       "category": 3,
       "explanation": ""
@@ -35,10 +35,10 @@
     "parameter": "Vloeroppervlakte",
     "description": "Vloeroppervlakte mogelijks verkeerd",
     "error": "Alge90",
+    "modifyClarification": false,
     "defaults": {
       "nc": "Ja",
       "impact": "Nee",
-      "modifyClarification": false,
       "clarification": "De vloeroppervlakte werd te laag ingeschat",
       "category": 0,
       "explanation": "Who cares"
@@ -50,10 +50,10 @@
     "parameter": "Bronfiche",
     "description": "Eerste bronfiche niet gebruikt",
     "error": "Fiche20",
+    "modifyClarification": true,
     "defaults": {
       "nc": "Ja",
       "impact": "Ja",
-      "modifyClarification": true,
       "clarification": "Bronfiche vergeten",
       "category": 3,
       "explanation": ""
