@@ -61,8 +61,8 @@
   },
   {
     "url": ["bronfiche", "conclusie"],
-    "endpoint": "bronfiche",
-    "parameter": "Test",
+    "endpoint": "bronfiche/{id}",
+    "parameter": "Test2",
     "description": "Test",
     "error": "Bron19",
     "modifyClarification": false,
