@@ -3,6 +3,21 @@
     "url": "info/details",
     "endpoint": "algemene-details",
     "parameter": "Vloeroppervlakte",
+    "description": "Vloeroppervlakte astronomaal",
+    "error": "Alge90",
+    "modifyClarification": false,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "De vloeroppervlakte werd te hoog ingeschat",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "url": "info/details",
+    "endpoint": "algemene-details",
+    "parameter": "Vloeroppervlakte",
     "description": "Vloeroppervlakte te laag",
     "error": "Alge90",
     "modifyClarification": false,
