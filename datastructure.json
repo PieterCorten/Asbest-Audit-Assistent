@@ -2,7 +2,7 @@
   {
     "urlInclude": ["controles"],
     "urlExclude": [],
-    "endpoint": "kwaliteitsborging/terreincontrole",
+    "endpoint": "terreincontrole",
     "parameter": "Opdrachtformulier",
     "description": "Geen opdrachtformulier ter beschikking",
     "error": "Terr15",
