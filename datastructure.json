@@ -96,9 +96,7 @@
     }
   }, 
   {
-    "urlInclude": [
-      "fichebibliotheek"
-    ],
+    "urlInclude": ["fichebibliotheek"],
     "urlExclude": [],
     "endpoint": "fichebibliotheek",
     "parameter": "Bronfiche",
