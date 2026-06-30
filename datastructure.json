@@ -3,6 +3,7 @@
     "urlInclude": [
       "info/details"
     ],
+    "urlExclude": [],
     "endpoint": "algemene-details",
     "parameter": "Bouwjaar",
     "description": "Bouwjaar verkeerd",
@@ -20,6 +21,7 @@
     "urlInclude": [
       "info/details"
     ],
+    "urlExclude": [],
     "endpoint": "algemene-details",
     "parameter": "Vloeroppervlakte",
     "description": "Vloeroppervlakte te laag",
@@ -37,6 +39,7 @@
     "urlInclude": [
       "info/details"
     ],
+    "urlExclude": [],
     "endpoint": "algemene-details",
     "parameter": "Vloeroppervlakte",
     "description": "Vloeroppervlakte te hoog",
@@ -54,6 +57,7 @@
     "urlInclude": [
       "info/details"
     ],
+    "urlExclude": [],
     "endpoint": "algemene-details",
     "parameter": "Vloeroppervlakte",
     "description": "Vloeroppervlakte mogelijks verkeerd",
@@ -92,6 +96,7 @@
     "urlInclude": [
       "fichebibliotheek"
     ],
+    "urlExclude": [],
     "endpoint": "fichebibliotheek",
     "parameter": "Bronfiche",
     "description": "Eerste bronfiche niet gebruikt",
