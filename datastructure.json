@@ -72,6 +72,9 @@
       "bronfiche",
       "conclusie"
     ],
+    "urlExclude": [
+      "plan"
+    ],
     "endpoint": "bronfiche/{id}",
     "parameter": "Test2",
     "description": "Test",
