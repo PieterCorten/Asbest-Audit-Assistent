@@ -1,8 +1,6 @@
 [
   {
-    "urlInclude": [
-      "info/details"
-    ],
+    "urlInclude": ["info/details"],
     "urlExclude": [],
     "endpoint": "algemene-details",
     "parameter": "Bouwjaar",
@@ -18,9 +16,7 @@
     }
   },
   {
-    "urlInclude": [
-      "info/details"
-    ],
+    "urlInclude": ["info/details"],
     "urlExclude": [],
     "endpoint": "algemene-details",
     "parameter": "Vloeroppervlakte",
@@ -36,9 +32,7 @@
     }
   },
   {
-    "urlInclude": [
-      "info/details"
-    ],
+    "urlInclude": ["info/details"],
     "urlExclude": [],
     "endpoint": "algemene-details",
     "parameter": "Vloeroppervlakte",
@@ -54,9 +48,7 @@
     }
   },
   {
-    "urlInclude": [
-      "info/details"
-    ],
+    "urlInclude": ["info/details"],
     "urlExclude": [],
     "endpoint": "algemene-details",
     "parameter": "Vloeroppervlakte",
@@ -72,13 +64,8 @@
     }
   },
   {
-    "urlInclude": [
-      "bronfiche",
-      "conclusie"
-    ],
-    "urlExclude": [
-      "plan"
-    ],
+    "urlInclude": ["bronfiche","conclusie"],
+    "urlExclude": [],
     "endpoint": "bronfiche/{id}",
     "parameter": "Test2",
     "description": "Test",
@@ -92,6 +79,22 @@
       "explanation": ""
     }
   },
+  {
+    "urlInclude": ["bronfiche"],
+    "urlExclude": ["plan","foto","risico","conclusie"],
+    "endpoint": "bronfiche/{id}",
+    "parameter": "Primaire drager",
+    "description": "Verkeerde primaire drager",
+    "error": "Bron220",
+    "modifyClarification": false,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "De verkeerde primaire drager werd aangeduid.",
+      "category": 4,
+      "explanation": ""
+    }
+  }, 
   {
     "urlInclude": [
       "fichebibliotheek"
