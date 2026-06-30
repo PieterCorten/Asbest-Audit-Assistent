@@ -1,6 +1,8 @@
 [
   {
-    "url": ["info/details"],
+    "urlInclude": [
+      "info/details"
+    ],
     "endpoint": "algemene-details",
     "parameter": "Bouwjaar",
     "description": "Bouwjaar verkeerd",
@@ -15,7 +17,9 @@
     }
   },
   {
-    "url": ["info/details"],
+    "urlInclude": [
+      "info/details"
+    ],
     "endpoint": "algemene-details",
     "parameter": "Vloeroppervlakte",
     "description": "Vloeroppervlakte te laag",
@@ -30,7 +34,9 @@
     }
   },
   {
-    "url": ["info/details"],
+    "urlInclude": [
+      "info/details"
+    ],
     "endpoint": "algemene-details",
     "parameter": "Vloeroppervlakte",
     "description": "Vloeroppervlakte te hoog",
@@ -45,7 +51,9 @@
     }
   },
   {
-    "url": ["info/details"],
+    "urlInclude": [
+      "info/details"
+    ],
     "endpoint": "algemene-details",
     "parameter": "Vloeroppervlakte",
     "description": "Vloeroppervlakte mogelijks verkeerd",
@@ -60,7 +68,10 @@
     }
   },
   {
-    "url": ["bronfiche", "conclusie"],
+    "urlInclude": [
+      "bronfiche",
+      "conclusie"
+    ],
     "endpoint": "bronfiche/{id}",
     "parameter": "Test2",
     "description": "Test",
@@ -75,7 +86,9 @@
     }
   },
   {
-    "url": ["fichebibliotheek"],
+    "urlInclude": [
+      "fichebibliotheek"
+    ],
     "endpoint": "fichebibliotheek",
     "parameter": "Bronfiche",
     "description": "Eerste bronfiche niet gebruikt",
