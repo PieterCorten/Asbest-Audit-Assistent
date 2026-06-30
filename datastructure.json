@@ -1,5 +1,21 @@
 [
   {
+    "urlInclude": ["controles"],
+    "urlExclude": [],
+    "endpoint": "kwaliteitsborging/terreincontrole",
+    "parameter": "Opdrachtformulier",
+    "description": "Geen opdrachtformulier ter beschikking",
+    "error": "Terr15",
+    "modifyClarification": false,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 3.1.1 beschrijft de opdrachtovereenkomst.\n\nHet opdrachtformulier was niet ter beschikking tijdens de inspectie.\nZorg ervoor dat het ondertekende opdrachtformulier steeds ter beschikking is tijdens de fysieke rondgang. Dit kan digitaal (al dan niet opgeladen in de databank) of op papier. ",
+      "category": 0,
+      "explanation": "N.v.t."
+    }
+  },
+  {
     "urlInclude": ["info/details"],
     "urlExclude": [],
     "endpoint": "algemene-details",
