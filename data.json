@@ -8642,22 +8642,7 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche ontbrekend",
-    "error": "Fiche170",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet gerapporteerd in een beperkingsfiche: XXX\nRapporteer de onderzoeksbeperking in een beperkingsfiche.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik beperkingsfiche",
-    "description": "Ontbrekende beperkingsfiche: schouw",
+    "description": "Eerste ontbrekende beperkingsfiche: schouw",
     "error": "Fiche170",
     "modifyClarification": false,
     "greenDescription": true,
@@ -8672,7 +8657,22 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche mogelijks ontbrekend",
+    "description": "Eerste beperkingsfiche ontbrekend",
+    "error": "Fiche170",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet gerapporteerd in een beperkingsfiche: XXX\nRapporteer de onderzoeksbeperking in een beperkingsfiche.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik beperkingsfiche",
+    "description": "Eerste beperkingsfiche mogelijks ontbrekend",
     "error": "Fiche170",
     "modifyClarification": true,
     "greenDescription": true,
@@ -8687,29 +8687,14 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche niet gebruikt - eerste ontbrekende beperkingsfiche",
-    "error": "Fiche170",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche niet gebruikt - tweede ontbrekende fiche",
+    "description": "Tweede beperkingsfiche ontbrekend",
     "error": "Fiche175",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet gerapporteerd in een beperkingsfiche: XXX\nRapporteer de onderzoeksbeperking in een beperkingsfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8717,14 +8702,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche niet gebruikt - derde ontbrekende fiche",
+    "description": "Tweede beperkingsfiche mogelijks ontbrekend",
+    "error": "Fiche175",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende situatie leidde tot een onderzoeksbeperking en gerapporteerd diende te worden in een beperkingsfiche: XXX\nKijk de situatie na. Rapporteer de onderzoeksbeperking - indien nodig - in een beperkingsfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik beperkingsfiche",
+    "description": "Derde beperkingsfiche ontbrekend",
     "error": "Fiche180",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet gerapporteerd in een beperkingsfiche: XXX\nRapporteer de onderzoeksbeperking in een beperkingsfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8732,14 +8732,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche niet gebruikt - vierde ontbrekende fiche",
+    "description": "Derde beperkingsfiche mogelijks ontbrekend",
+    "error": "Fiche180",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende situatie leidde tot een onderzoeksbeperking en gerapporteerd diende te worden in een beperkingsfiche: XXX\nKijk de situatie na. Rapporteer de onderzoeksbeperking - indien nodig - in een beperkingsfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik beperkingsfiche",
+    "description": "Vierde beperkingsfiche ontbrekend",
     "error": "Fiche185",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet gerapporteerd in een beperkingsfiche: XXX\nRapporteer de onderzoeksbeperking in een beperkingsfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8747,14 +8762,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche niet gebruikt - vijfde ontbrekende fiche",
+    "description": "Vierde beperkingsfiche mogelijks ontbrekend",
+    "error": "Fiche185",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende situatie leidde tot een onderzoeksbeperking en gerapporteerd diende te worden in een beperkingsfiche: XXX\nKijk de situatie na. Rapporteer de onderzoeksbeperking - indien nodig - in een beperkingsfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik beperkingsfiche",
+    "description": "Vijfde beperkingsfiche ontbrekend",
     "error": "Fiche190",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet gerapporteerd in een beperkingsfiche: XXX\nRapporteer de onderzoeksbeperking in een beperkingsfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8762,14 +8792,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche niet gebruikt - zesde ontbrekende fiche",
+    "description": "Vijfde beperkingsfiche mogelijks ontbrekend",
+    "error": "Fiche190",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende situatie leidde tot een onderzoeksbeperking en gerapporteerd diende te worden in een beperkingsfiche: XXX\nKijk de situatie na. Rapporteer de onderzoeksbeperking - indien nodig - in een beperkingsfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik beperkingsfiche",
+    "description": "Zesde beperkingsfiche ontbrekend",
     "error": "Fiche195",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet gerapporteerd in een beperkingsfiche: XXX\nRapporteer de onderzoeksbeperking in een beperkingsfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8777,14 +8822,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche niet gebruikt - zevende ontbrekende fiche",
+    "description": "Zesde beperkingsfiche mogelijks ontbrekend",
+    "error": "Fiche195",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende situatie leidde tot een onderzoeksbeperking en gerapporteerd diende te worden in een beperkingsfiche: XXX\nKijk de situatie na. Rapporteer de onderzoeksbeperking - indien nodig - in een beperkingsfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik beperkingsfiche",
+    "description": "Zevende beperkingsfiche ontbrekend",
     "error": "Fiche200",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet gerapporteerd in een beperkingsfiche: XXX\nRapporteer de onderzoeksbeperking in een beperkingsfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8792,14 +8852,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche niet gebruikt - achtste ontbrekende fiche",
+    "description": "Zevende beperkingsfiche mogelijks ontbrekend",
+    "error": "Fiche200",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende situatie leidde tot een onderzoeksbeperking en gerapporteerd diende te worden in een beperkingsfiche: XXX\nKijk de situatie na. Rapporteer de onderzoeksbeperking - indien nodig - in een beperkingsfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik beperkingsfiche",
+    "description": "Achtste beperkingsfiche ontbrekend",
     "error": "Fiche205",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet gerapporteerd in een beperkingsfiche: XXX\nRapporteer de onderzoeksbeperking in een beperkingsfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8807,14 +8882,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche niet gebruikt - negende ontbrekende fiche",
+    "description": "Achtste beperkingsfiche mogelijks ontbrekend",
+    "error": "Fiche205",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende situatie leidde tot een onderzoeksbeperking en gerapporteerd diende te worden in een beperkingsfiche: XXX\nKijk de situatie na. Rapporteer de onderzoeksbeperking - indien nodig - in een beperkingsfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik beperkingsfiche",
+    "description": "Negende beperkingsfiche ontbrekend",
     "error": "Fiche210",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet gerapporteerd in een beperkingsfiche: XXX\nRapporteer de onderzoeksbeperking in een beperkingsfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8822,16 +8912,46 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
-    "description": "Beperkingsfiche niet gebruikt - tiende ontbrekende fiche",
+    "description": "Negende beperkingsfiche mogelijks ontbrekend",
+    "error": "Fiche210",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende situatie leidde tot een onderzoeksbeperking en gerapporteerd diende te worden in een beperkingsfiche: XXX\nKijk de situatie na. Rapporteer de onderzoeksbeperking - indien nodig - in een beperkingsfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik beperkingsfiche",
+    "description": "Tiende beperkingsfiche ontbrekend",
     "error": "Fiche215",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet gerapporteerd in een beperkingsfiche: XXX\nRapporteer de onderzoeksbeperking in een beperkingsfiche.",
       "category": 3,
       "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik beperkingsfiche",
+    "description": "Tiende beperkingsfiche mogelijks ontbrekend",
+    "error": "Fiche215",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende situatie leidde tot een onderzoeksbeperking en gerapporteerd diende te worden in een beperkingsfiche: XXX\nKijk de situatie na. Rapporteer de onderzoeksbeperking - indien nodig - in een beperkingsfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
     }
   },
   {
