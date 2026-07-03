@@ -9467,7 +9467,7 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche ontbrekend",
+    "description": "Eerste afdruipzonefiche ontbrekend",
     "error": "Fiche510",
     "modifyClarification": true,
     "greenDescription": true,
@@ -9482,7 +9482,7 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche ontbrekend",
+    "description": "Eerste afdruipzonefiche mogelijks ontbrekend",
     "error": "Fiche510",
     "modifyClarification": true,
     "greenDescription": true,
@@ -9497,29 +9497,14 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche niet gebruikt - eerste ontbrekende fiche",
-    "error": "Fiche510",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche niet gebruikt - tweede ontbrekende fiche",
+    "description": "Tweede afdruipzonefiche ontbrekend",
     "error": "Fiche515",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nVolgende afdruip- en afvloeizone werd niet gerapporteerd in een afdruipzonefiche: XXX\nRapporteer de afdruip- en afvloeizone in een afdruipzonefiche.",
       "category": 3,
       "explanation": ""
     }
@@ -9527,14 +9512,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche niet gebruikt - derde ontbrekende fiche",
+    "description": "Tweede afdruipzonefiche mogelijks ontbrekend",
+    "error": "Fiche515",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende afdruip- of afvloeizone gerapporteerd diende te worden in een afdruipzonefiche: XXX\nKijk dit na. Rapporteer de afdruip- en afvloeizone - indien van toepassing - in een afdruipzonefiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afdruipzonefiche",
+    "description": "Derde afdruipzonefiche ontbrekend",
     "error": "Fiche520",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nVolgende afdruip- en afvloeizone werd niet gerapporteerd in een afdruipzonefiche: XXX\nRapporteer de afdruip- en afvloeizone in een afdruipzonefiche.",
       "category": 3,
       "explanation": ""
     }
@@ -9542,14 +9542,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche niet gebruikt - vierde ontbrekende fiche",
+    "description": "Derde afdruipzonefiche mogelijks ontbrekend",
+    "error": "Fiche520",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende afdruip- of afvloeizone gerapporteerd diende te worden in een afdruipzonefiche: XXX\nKijk dit na. Rapporteer de afdruip- en afvloeizone - indien van toepassing - in een afdruipzonefiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afdruipzonefiche",
+    "description": "Vierde afdruipzonefiche ontbrekend",
     "error": "Fiche525",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nVolgende afdruip- en afvloeizone werd niet gerapporteerd in een afdruipzonefiche: XXX\nRapporteer de afdruip- en afvloeizone in een afdruipzonefiche.",
       "category": 3,
       "explanation": ""
     }
@@ -9557,14 +9572,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche niet gebruikt - vijfde ontbrekende fiche",
+    "description": "Vierde afdruipzonefiche mogelijks ontbrekend",
+    "error": "Fiche525",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende afdruip- of afvloeizone gerapporteerd diende te worden in een afdruipzonefiche: XXX\nKijk dit na. Rapporteer de afdruip- en afvloeizone - indien van toepassing - in een afdruipzonefiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afdruipzonefiche",
+    "description": "Vijfde afdruipzonefiche ontbrekend",
     "error": "Fiche530",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nVolgende afdruip- en afvloeizone werd niet gerapporteerd in een afdruipzonefiche: XXX\nRapporteer de afdruip- en afvloeizone in een afdruipzonefiche.",
       "category": 3,
       "explanation": ""
     }
@@ -9572,14 +9602,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche niet gebruikt - zesde ontbrekende fiche",
+    "description": "Vijfde afdruipzonefiche mogelijks ontbrekend",
+    "error": "Fiche530",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende afdruip- of afvloeizone gerapporteerd diende te worden in een afdruipzonefiche: XXX\nKijk dit na. Rapporteer de afdruip- en afvloeizone - indien van toepassing - in een afdruipzonefiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afdruipzonefiche",
+    "description": "Zesde afdruipzonefiche ontbrekend",
     "error": "Fiche535",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nVolgende afdruip- en afvloeizone werd niet gerapporteerd in een afdruipzonefiche: XXX\nRapporteer de afdruip- en afvloeizone in een afdruipzonefiche.",
       "category": 3,
       "explanation": ""
     }
@@ -9587,14 +9632,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche niet gebruikt - zevende ontbrekende fiche",
+    "description": "Zesde afdruipzonefiche mogelijks ontbrekend",
+    "error": "Fiche535",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende afdruip- of afvloeizone gerapporteerd diende te worden in een afdruipzonefiche: XXX\nKijk dit na. Rapporteer de afdruip- en afvloeizone - indien van toepassing - in een afdruipzonefiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afdruipzonefiche",
+    "description": "Zevende afdruipzonefiche ontbrekend",
     "error": "Fiche540",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nVolgende afdruip- en afvloeizone werd niet gerapporteerd in een afdruipzonefiche: XXX\nRapporteer de afdruip- en afvloeizone in een afdruipzonefiche.",
       "category": 3,
       "explanation": ""
     }
@@ -9602,14 +9662,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche niet gebruikt - achtste ontbrekende fiche",
+    "description": "Zevende afdruipzonefiche mogelijks ontbrekend",
+    "error": "Fiche540",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende afdruip- of afvloeizone gerapporteerd diende te worden in een afdruipzonefiche: XXX\nKijk dit na. Rapporteer de afdruip- en afvloeizone - indien van toepassing - in een afdruipzonefiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afdruipzonefiche",
+    "description": "Achtste afdruipzonefiche ontbrekend",
     "error": "Fiche545",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nVolgende afdruip- en afvloeizone werd niet gerapporteerd in een afdruipzonefiche: XXX\nRapporteer de afdruip- en afvloeizone in een afdruipzonefiche.",
       "category": 3,
       "explanation": ""
     }
@@ -9617,14 +9692,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche niet gebruikt - negende ontbrekende fiche",
+    "description": "Achtste afdruipzonefiche mogelijks ontbrekend",
+    "error": "Fiche545",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende afdruip- of afvloeizone gerapporteerd diende te worden in een afdruipzonefiche: XXX\nKijk dit na. Rapporteer de afdruip- en afvloeizone - indien van toepassing - in een afdruipzonefiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afdruipzonefiche",
+    "description": "Negende afdruipzonefiche ontbrekend",
     "error": "Fiche550",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nVolgende afdruip- en afvloeizone werd niet gerapporteerd in een afdruipzonefiche: XXX\nRapporteer de afdruip- en afvloeizone in een afdruipzonefiche.",
       "category": 3,
       "explanation": ""
     }
@@ -9632,16 +9722,46 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
-    "description": "Afdruipzonefiche niet gebruikt - tiende ontbrekende fiche",
+    "description": "Negende afdruipzonefiche mogelijks ontbrekend",
+    "error": "Fiche550",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende afdruip- of afvloeizone gerapporteerd diende te worden in een afdruipzonefiche: XXX\nKijk dit na. Rapporteer de afdruip- en afvloeizone - indien van toepassing - in een afdruipzonefiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afdruipzonefiche",
+    "description": "Tiende afdruipzonefiche ontbrekend",
     "error": "Fiche555",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nVolgende afdruip- en afvloeizone werd niet gerapporteerd in een afdruipzonefiche: XXX\nRapporteer de afdruip- en afvloeizone in een afdruipzonefiche.",
       "category": 3,
       "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afdruipzonefiche",
+    "description": "Tiende afdruipzonefiche mogelijks ontbrekend",
+    "error": "Fiche555",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgende afdruip- of afvloeizone gerapporteerd diende te worden in een afdruipzonefiche: XXX\nKijk dit na. Rapporteer de afdruip- en afvloeizone - indien van toepassing - in een afdruipzonefiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
     }
   },
   {
