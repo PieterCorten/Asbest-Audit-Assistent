@@ -1,0 +1,385 @@
+{
+  "Algemene info - Details": {
+    "endpoint": "algemene-details",
+    "urlInclude": [
+      "info/details"
+    ],
+    "urlExclude": []
+  },
+  "Algemene info - Acties": {
+    "endpoint": "algemene-details",
+    "urlInclude": [
+      "info/acties"
+    ],
+    "urlExclude": []
+  },
+  "Algemene info - Toegangsbeheer": {
+    "endpoint": "algemene-details",
+    "urlInclude": [
+      "info/toegangsbeheer"
+    ],
+    "urlExclude": []
+  },
+  "Lokalisatie - Inspectiegebied": {
+    "endpoint": "lokalisatie",
+    "urlInclude": [
+      "lokalisatie"
+    ],
+    "urlExclude": [
+      "plan",
+      "plattegrond",
+      "afdruipzones"
+    ]
+  },
+  "Lokalisatie - Plattegrond": {
+    "endpoint": "lokalisatie",
+    "urlInclude": [
+      "lokalisatie/plattegrond"
+    ],
+    "urlExclude": []
+  },
+  "Lokalisatie - Afdruipzones": {
+    "endpoint": "lokalisatie",
+    "urlInclude": [
+      "lokalisatie/afdruipzones"
+    ],
+    "urlExclude": []
+  },
+  "Fichebibliotheek": {
+    "endpoint": "fichebibliotheek",
+    "urlInclude": [
+      "fichebibliotheek"
+    ],
+    "urlExclude": []
+  },
+  "Laboanalyses": {
+    "endpoint": "laboanalyses",
+    "urlInclude": [
+      "staal"
+    ],
+    "urlExclude": []
+  },
+  "Bijlagen - Fotoreportage": {
+    "endpoint": "bijlagen",
+    "urlInclude": [
+      "bijlagen/fotoreportage"
+    ],
+    "urlExclude": []
+  },
+  "Bijlagen - Bewijsdocumenten": {
+    "endpoint": "bijlagen",
+    "urlInclude": [
+      "bijlagen/bewijsdocumenten"
+    ],
+    "urlExclude": []
+  },
+  "Attest": {
+    "endpoint": "attest",
+    "urlInclude": [
+      "attest"
+    ],
+    "urlExclude": []
+  },
+  "Kwaliteit - Controles": {
+    "endpoint": "terreincontrole",
+    "urlInclude": [
+      "kwaliteit/controles"
+    ],
+    "urlExclude": []
+  },
+  "Bronfiche - Algemeen": {
+    "endpoint": "bronfiche/{id}",
+    "urlInclude": [
+      "bronfiche"
+    ],
+    "urlExclude": [
+      "plan"
+    ]
+  },
+  "Bronfiche - Identificatie": {
+    "endpoint": "bronfiche/{id}",
+    "urlInclude": [
+      "bronfiche"
+    ],
+    "urlExclude": [
+      "plan",
+      "foto",
+      "risico",
+      "conclusie"
+    ]
+  },
+  "Bronfiche - Foto": {
+    "endpoint": "bronfiche/{id}",
+    "urlInclude": [
+      "bronfiche",
+      "foto"
+    ],
+    "urlExclude": []
+  },
+  "Bronfiche - Risicobeoordeling": {
+    "endpoint": "bronfiche/{id}",
+    "urlInclude": [
+      "bronfiche",
+      "risico"
+    ],
+    "urlExclude": []
+  },
+  "Brofiche - Conclusie": {
+    "endpoint": "bronfiche/{id}",
+    "urlInclude": [
+      "bronfiche",
+      "conclusie"
+    ],
+    "urlExclude": []
+  },
+  "Afvalfiche - Algemeen": {
+    "endpoint": "afvalfiche/{id}",
+    "urlInclude": [
+      "afvalfiche"
+    ],
+    "urlExclude": [
+      "plan"
+    ]
+  },
+  "Afvalfiche - Identificatie": {
+    "endpoint": "afvalfiche/{id}",
+    "urlInclude": [
+      "afvalfiche"
+    ],
+    "urlExclude": [
+      "plan",
+      "plattegrond",
+      "foto",
+      "conclusie"
+    ]
+  },
+  "Afvalfiche - Plattegrond": {
+    "endpoint": "afvalfiche/{id}",
+    "urlInclude": [
+      "afvalfiche",
+      "plattegrond"
+    ],
+    "urlExclude": []
+  },
+  "Afvalfiche - Foto": {
+    "endpoint": "afvalfiche/{id}",
+    "urlInclude": [
+      "afvalfiche",
+      "foto"
+    ],
+    "urlExclude": []
+  },
+  "Afvalfiche - Conclusie": {
+    "endpoint": "afvalfiche/{id}",
+    "urlInclude": [
+      "afvalfiche",
+      "conclusie"
+    ],
+    "urlExclude": []
+  },
+  "Beperkingsfiche - Algemeen": {
+    "endpoint": "beperkingsfiche/{id}",
+    "urlInclude": [
+      "beperkingsfiche"
+    ],
+    "urlExclude": [
+      "plan"
+    ]
+  },
+  "Beperkingsfiche - Identificatie": {
+    "endpoint": "beperkingsfiche/{id}",
+    "urlInclude": [
+      "beperkingsfiche"
+    ],
+    "urlExclude": [
+      "plan",
+      "plattegrond",
+      "foto"
+    ]
+  },
+  "Beperkingsfiche - Plattegrond": {
+    "endpoint": "beperkingsfiche/{id}",
+    "urlInclude": [
+      "beperkingsfiche",
+      "plattegrond"
+    ],
+    "urlExclude": []
+  },
+  "Beperkingsfiche - Foto": {
+    "endpoint": "beperkingsfiche/{id}",
+    "urlInclude": [
+      "beperkingsfiche",
+      "foto"
+    ],
+    "urlExclude": []
+  },
+  "Beperkingsfiche - Conclusie": {
+    "endpoint": "beperkingsfiche/{id}",
+    "urlInclude": [
+      "beperkingsfiche",
+      "conclusie"
+    ],
+    "urlExclude": []
+  },
+  "Adviesfiche - Algemeen": {
+    "endpoint": "adviesfiche/{id}",
+    "urlInclude": [
+      "adviesfiche"
+    ],
+    "urlExclude": [
+      "plan"
+    ]
+  },
+  "Adviesfiche - Identificatie": {
+    "endpoint": "adviesfiche/{id}",
+    "urlInclude": [
+      "adviesfiche"
+    ],
+    "urlExclude": [
+      "plan",
+      "plattegrond",
+      "foto"
+    ]
+  },
+  "Adviesfiche - Plattegrond": {
+    "endpoint": "adviesfiche/{id}",
+    "urlInclude": [
+      "adviesfiche",
+      "plattegrond"
+    ],
+    "urlExclude": []
+  },
+  "Adviesfiche - Foto": {
+    "endpoint": "adviesfiche/{id}",
+    "urlInclude": [
+      "adviesfiche",
+      "foto"
+    ],
+    "urlExclude": []
+  },
+  "Afdruipzonefiche - Afdruipzones": {
+    "endpoint": "afdruipzonefiche/{id}",
+    "urlInclude": [
+      "afdruipzonefiche",
+      "afdruipzonekaart"
+    ],
+    "urlExclude": []
+  },
+  "Afdruipzonefiche - Algemeen": {
+    "endpoint": "afdruipzonefiche/{id}",
+    "urlInclude": [
+      "afdruipzonefiche"
+    ],
+    "urlExclude": [
+      "afdruipzonekaart"
+    ]
+  },
+  "Afdruipzonefiche - Identificatie": {
+    "endpoint": "afdruipzonefiche/{id}",
+    "urlInclude": [
+      "afdruipzonefiche"
+    ],
+    "urlExclude": [
+      "afdruipzonekaart",
+      "foto",
+      "conclusie"
+    ]
+  },
+  "Afdruipzonefiche - Foto": {
+    "endpoint": "afdruipzonefiche/{id}",
+    "urlInclude": [
+      "afdruipzonefiche",
+      "foto"
+    ],
+    "urlExclude": []
+  },
+  "Afdruipzonefiche - Conclusie": {
+    "endpoint": "afdruipzonefiche/{id}",
+    "urlInclude": [
+      "afdruipzonefiche",
+      "conclusie"
+    ],
+    "urlExclude": []
+  },
+  "Uitsluitingsfiche - Algemeen": {
+    "endpoint": "uitsluitingsfiche/{id}",
+    "urlInclude": [
+      "uitsluitingsfiche"
+    ],
+    "urlExclude": [
+      "plan"
+    ]
+  },
+  "Uitsluitingsfiche - Identificatie": {
+    "endpoint": "uitsluitingsfiche/{id}",
+    "urlInclude": [
+      "uitsluitingsfiche"
+    ],
+    "urlExclude": [
+      "plan",
+      "foto"
+    ]
+  },
+  "Uitsluitingsfiche - Foto": {
+    "endpoint": "uitsluitingsfiche/{id}",
+    "urlInclude": [
+      "uitsluitingsfiche",
+      "foto"
+    ],
+    "urlExclude": []
+  },
+  "Roerendgoedfiche - Algemeen": {
+    "endpoint": "roerendgoedfiche/{id}",
+    "urlInclude": [
+      "roerendgoedfiche"
+    ],
+    "urlExclude": [
+      "plan"
+    ]
+  },
+  "Roerendgoedfiche - Identificatie": {
+    "endpoint": "roerendgoedfiche/{id}",
+    "urlInclude": [
+      "roerendgoedfiche"
+    ],
+    "urlExclude": [
+      "plan",
+      "plattegrond",
+      "foto",
+      "risico",
+      "conclusie"
+    ]
+  },
+  "Roerendgoedfiche - Foto": {
+    "endpoint": "roerendgoedfiche/{id}",
+    "urlInclude": [
+      "roerendgoedfiche",
+      "foto"
+    ],
+    "urlExclude": []
+  },
+  "Roerendgoedfiche - Risicobeoordeling": {
+    "endpoint": "roerendgoedfiche/{id}",
+    "urlInclude": [
+      "roerendgoedfiche",
+      "risico"
+    ],
+    "urlExclude": []
+  },
+  "Roerendgoedfiche - Conclusie": {
+    "endpoint": "roerendgoedfiche/{id}",
+    "urlInclude": [
+      "roerendgoedfiche",
+      "conclusie"
+    ],
+    "urlExclude": []
+  },
+  "Roerendgoedfiche - Plattegrond": {
+    "endpoint": "roerendgoedfiche/{id}",
+    "urlInclude": [
+      "roerendgoedfiche",
+      "plattegrond"
+    ],
+    "urlExclude": []
+  }
+}
