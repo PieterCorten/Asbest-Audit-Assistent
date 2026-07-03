@@ -22,6 +22,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -50,6 +52,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -78,6 +82,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -106,6 +112,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -134,6 +142,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -162,6 +172,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -175,6 +187,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -203,6 +217,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -216,6 +232,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -229,7 +247,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -256,6 +277,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -269,7 +292,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -311,6 +337,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -339,6 +367,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -352,6 +382,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -380,6 +412,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -393,6 +427,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -421,6 +457,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -434,6 +472,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -447,7 +487,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -474,6 +517,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -487,7 +532,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -514,6 +562,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -527,7 +577,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -554,6 +607,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -567,7 +622,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -594,6 +652,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -607,7 +667,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -619,6 +682,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -647,6 +712,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -660,6 +727,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -688,6 +757,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -701,7 +772,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -728,6 +802,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -756,6 +832,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -769,7 +847,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -826,6 +907,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -839,7 +922,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -881,6 +967,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -894,7 +982,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -951,6 +1042,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -964,6 +1057,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -977,7 +1072,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1004,6 +1102,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1017,7 +1117,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1029,6 +1132,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1042,7 +1147,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1054,6 +1162,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1067,7 +1177,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1079,6 +1192,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1092,6 +1207,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1120,6 +1237,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1148,6 +1267,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1176,6 +1297,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1204,6 +1327,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1232,6 +1357,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1260,6 +1387,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1273,6 +1402,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1301,7 +1432,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1313,6 +1447,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1326,6 +1462,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1339,7 +1477,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1351,6 +1492,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1364,6 +1507,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -1377,6 +1522,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1390,7 +1537,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1417,6 +1567,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1430,6 +1582,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -1458,6 +1612,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1486,6 +1642,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -1499,6 +1657,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -1512,6 +1672,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1525,7 +1687,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1537,7 +1702,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1549,6 +1717,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1562,6 +1732,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -1575,6 +1747,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1588,7 +1762,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1600,6 +1777,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1613,7 +1792,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1640,6 +1822,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1653,7 +1837,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1665,6 +1852,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1678,7 +1867,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1690,6 +1882,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -1703,6 +1897,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1716,6 +1912,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1729,6 +1927,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1742,6 +1942,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1755,6 +1957,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1768,7 +1972,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1795,6 +2002,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1823,6 +2032,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1851,6 +2062,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1879,6 +2092,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1907,6 +2122,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1935,6 +2152,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1948,6 +2167,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1961,7 +2182,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1973,6 +2197,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -1986,6 +2212,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -1999,6 +2227,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2012,7 +2242,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2024,6 +2257,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -2037,6 +2272,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2050,6 +2287,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -2063,7 +2302,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2090,6 +2332,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2103,7 +2347,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2115,6 +2362,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2128,7 +2377,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2140,6 +2392,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2153,6 +2407,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2166,6 +2422,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2179,6 +2437,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2222,6 +2482,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2235,7 +2497,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2247,6 +2512,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -2260,6 +2527,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2273,7 +2542,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2285,6 +2557,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2313,6 +2587,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -2341,6 +2617,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2369,6 +2647,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2397,6 +2677,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -2410,6 +2692,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -2423,7 +2707,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2450,6 +2737,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2463,6 +2752,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -2476,7 +2767,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2503,6 +2797,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2516,7 +2812,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2543,6 +2842,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2556,7 +2857,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2568,6 +2872,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2581,7 +2887,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2593,6 +2902,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2606,7 +2917,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2618,6 +2932,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2631,7 +2947,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2643,6 +2962,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2656,6 +2977,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2669,6 +2992,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2682,6 +3007,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2695,6 +3022,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2708,6 +3037,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2721,7 +3052,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2748,6 +3082,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -2761,7 +3097,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2773,6 +3112,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2786,6 +3127,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2799,7 +3142,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2811,6 +3157,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2824,7 +3172,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2836,6 +3187,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2849,7 +3202,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2861,6 +3217,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2874,6 +3232,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2887,7 +3247,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2899,6 +3262,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2912,7 +3277,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2939,6 +3307,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2952,7 +3322,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -2964,6 +3337,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -2977,7 +3352,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3004,6 +3382,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3017,6 +3397,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3030,7 +3412,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3042,6 +3427,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3055,7 +3442,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3067,6 +3457,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3080,6 +3472,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -3093,6 +3487,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3106,6 +3502,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -3119,7 +3517,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3146,6 +3547,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3159,6 +3562,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3172,6 +3577,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3185,7 +3592,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3197,6 +3607,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3210,6 +3622,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3223,6 +3637,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3236,6 +3652,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3249,6 +3667,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3262,7 +3682,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3289,6 +3712,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3302,6 +3727,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3315,7 +3742,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3327,6 +3757,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3340,6 +3772,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3353,7 +3787,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3365,6 +3802,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3378,6 +3817,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3391,7 +3832,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3403,6 +3847,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3416,6 +3862,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3429,6 +3877,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3457,6 +3907,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3485,6 +3937,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3498,6 +3952,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3526,6 +3982,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3539,7 +3997,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3551,6 +4012,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3579,6 +4042,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3592,7 +4057,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3604,6 +4072,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3617,6 +4087,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3630,6 +4102,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3643,7 +4117,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3655,7 +4132,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3667,6 +4147,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3695,6 +4177,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3708,7 +4192,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3735,6 +4222,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3748,6 +4237,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3761,6 +4252,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3804,6 +4297,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3832,6 +4327,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -3845,6 +4342,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3858,7 +4357,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3900,6 +4402,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3913,7 +4417,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3925,6 +4432,8 @@
     "modifyClarification": false,
     "greenDescription": true,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "IP2 titel 6.3.5 beschrijft de plannen. \n\nDe toepassing of zone werd niet correct aangeduid op de constructieplannen of de plattegrond. \nAnnoteer elke toepassing of zone correct op de constructieplannen of de plattegrond.",
       "category": 3,
       "explanation": ""
@@ -3938,6 +4447,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3951,6 +4462,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -3964,7 +4477,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -3991,6 +4507,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4019,6 +4537,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4047,6 +4567,8 @@
     "modifyClarification": true,
     "greenDescription": true,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "IP2 titel 6.4.5 beschrijft de verplicht te beschrijven ruimtes en materialen. \n\nMaterialen aan de stookketel zijn waarneembaar en verplicht te beschrijven. Zijn de materialen aan de stookketel niet aanwezig of niet-asbestverdacht dan dienen deze gerapporteerd te worden in een adviesfiche.\nVerplicht te beschrijven waarneembare materialen en ruimtes die niet-asbestverdacht of niet aanwezig zijn dienen als volgt gerapporteerd te worden in een adviesfiche:\n- Basis voor advies: Vaststelling en expertise\n- Type advies: Verplicht te beschrijven ruimte of materiaal\n- Karakterisatie: Niet-asbestverdacht of Niet aanwezig\nMaterialen in de stookketel zijn niet-waarneembaar en optioneel te beschrijven. Deze vallen niet onder verplicht te beschrijven materialen en ruimtes. Optioneel te beschrijven materialen of ruimtes, die niet-waarneembaar zijn, vallen buiten de scope van een standaard onderzoek en leiden niet tot een beperkingsfiche.\nNiet-waarneembare materialen/ruimtes die optioneel te beschrijven zijn dienen als volgt gerapporteerd te worden in een adviesfiche::\n- Basis voor advies: Expertise zonder vaststelling\n- Type advies: Overige ruimte of materiaal\n- Karakterisatie: Niet waarneembaar of vast te stellen\n\nHet verplicht te beschrijven materiaal aan de stookketel werd verkeerdelijk gerapporteerd in een beperkingsfiche. \nRapporteer het materiaal aan de stookketel in een adviesfiche. \n\nHet materiaal in de stookketel is optooneel te beschrijven. Dit werd verkeerdelijk gerapporteerd in een beperkingsfiche. \nRapporteer het materiaal in de stookketel in een optionele adviesfiche of in de notitie van de fiche voor het verplicht te beschrijven materiaal aan de stookketel.",
       "category": 3,
       "explanation": ""
@@ -4060,6 +4582,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4088,6 +4612,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4116,6 +4642,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4144,6 +4672,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4157,6 +4687,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4170,7 +4702,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4197,6 +4732,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4210,6 +4747,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -4238,6 +4777,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4266,6 +4807,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -4279,6 +4822,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -4292,7 +4837,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4319,6 +4867,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4332,7 +4882,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4344,6 +4897,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4387,6 +4942,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4400,6 +4957,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -4413,6 +4972,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4426,7 +4987,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4453,6 +5017,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4466,7 +5032,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4493,6 +5062,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4506,7 +5077,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4533,6 +5107,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4546,7 +5122,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4573,6 +5152,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4601,6 +5182,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4614,7 +5197,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4641,6 +5227,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -4654,7 +5242,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4666,6 +5257,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4679,6 +5272,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4707,6 +5302,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -4720,6 +5317,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 1,
       "explanation": ""
@@ -4733,6 +5332,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 1,
       "explanation": ""
@@ -4746,6 +5347,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -4759,7 +5362,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4771,6 +5377,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4814,6 +5422,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4842,6 +5452,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 2,
       "explanation": ""
@@ -4855,7 +5467,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4867,7 +5482,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -4894,6 +5512,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4907,6 +5527,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4935,6 +5557,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -4963,6 +5587,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -5006,6 +5632,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -5019,7 +5647,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -5046,6 +5677,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5074,6 +5707,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5087,6 +5722,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -5130,6 +5767,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5143,6 +5782,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -5156,6 +5797,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5199,6 +5842,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5212,6 +5857,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5225,6 +5872,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -5268,6 +5917,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5281,6 +5932,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -5294,6 +5947,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5307,6 +5962,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -5335,6 +5992,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5348,6 +6007,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -5361,6 +6022,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5374,6 +6037,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5387,6 +6052,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5400,6 +6067,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5443,6 +6112,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5456,6 +6127,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -5469,6 +6142,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -5482,6 +6157,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -5495,6 +6172,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -5508,6 +6187,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5521,6 +6202,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5534,6 +6217,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -5547,6 +6232,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5560,6 +6247,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5573,6 +6262,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5601,6 +6292,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5614,6 +6307,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5627,6 +6322,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -5655,6 +6352,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5683,6 +6382,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5711,6 +6412,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5739,6 +6442,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5767,6 +6472,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5795,6 +6502,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5808,6 +6517,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5836,6 +6547,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5894,6 +6607,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5907,6 +6622,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -5935,6 +6652,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -5948,6 +6667,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -5976,6 +6697,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6004,6 +6727,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6017,6 +6742,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6030,6 +6757,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6058,6 +6787,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 2,
       "explanation": ""
@@ -6071,6 +6802,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6084,6 +6817,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6112,6 +6847,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6140,6 +6877,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6153,6 +6892,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6166,6 +6907,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6179,6 +6922,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6207,6 +6952,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6220,6 +6967,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6263,6 +7012,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6276,6 +7027,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6319,6 +7072,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6347,6 +7102,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6360,6 +7117,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6373,6 +7132,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6386,6 +7147,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6429,6 +7192,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6442,6 +7207,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6470,6 +7237,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6483,6 +7252,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6496,6 +7267,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6509,6 +7282,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6537,6 +7312,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6550,6 +7327,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6563,6 +7342,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6591,6 +7372,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6604,6 +7387,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6647,6 +7432,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6660,6 +7447,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6673,6 +7462,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6716,6 +7507,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6729,6 +7522,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6757,6 +7552,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6770,6 +7567,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6798,6 +7597,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -6811,6 +7612,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6824,6 +7627,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -6852,6 +7657,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6865,6 +7672,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6878,6 +7687,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6906,6 +7717,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6919,6 +7732,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -6962,6 +7777,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -6975,6 +7792,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -6988,6 +7807,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7001,6 +7822,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -7044,6 +7867,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7057,6 +7882,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -7100,6 +7927,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7113,6 +7942,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -7126,6 +7957,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7139,6 +7972,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -7152,6 +7987,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7165,6 +8002,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 10,
       "explanation": ""
@@ -7178,6 +8017,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7191,6 +8032,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7204,6 +8047,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7217,6 +8062,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7230,6 +8077,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7243,6 +8092,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7256,6 +8107,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7269,6 +8122,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7282,7 +8137,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -7339,6 +8197,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7352,6 +8212,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7365,6 +8227,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7378,6 +8242,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7391,6 +8257,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7404,6 +8272,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7447,6 +8317,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7460,6 +8332,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7473,6 +8347,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7486,6 +8362,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7499,6 +8377,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7512,7 +8392,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -7524,6 +8407,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7537,6 +8422,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -7550,6 +8437,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -7563,6 +8452,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -7576,6 +8467,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -7589,6 +8482,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -7602,6 +8497,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -7615,6 +8512,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -7628,6 +8527,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -7641,6 +8542,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7654,6 +8557,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -7667,6 +8572,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -7680,7 +8587,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -7692,6 +8602,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7705,6 +8617,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7718,6 +8632,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7731,6 +8647,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7744,6 +8662,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7757,6 +8677,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7770,6 +8692,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7783,6 +8707,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7796,6 +8722,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7809,6 +8737,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7822,6 +8752,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7835,6 +8767,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7848,7 +8782,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -7860,6 +8797,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7873,6 +8812,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7886,6 +8827,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7899,6 +8842,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7912,6 +8857,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7925,6 +8872,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7938,6 +8887,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7951,6 +8902,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7964,6 +8917,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7977,6 +8932,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -7990,6 +8947,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8003,7 +8962,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -8015,6 +8977,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8058,6 +9022,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8071,6 +9037,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8084,6 +9052,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8097,6 +9067,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8110,6 +9082,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8123,6 +9097,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8136,6 +9112,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8149,6 +9127,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8162,6 +9142,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8175,6 +9157,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8188,6 +9172,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8201,7 +9187,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -8213,6 +9202,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8226,6 +9217,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8239,6 +9232,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8252,6 +9247,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8265,6 +9262,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8278,6 +9277,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8291,6 +9292,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8304,6 +9307,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8317,6 +9322,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8330,6 +9337,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8343,6 +9352,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8356,6 +9367,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8369,6 +9382,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8382,7 +9397,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -8424,6 +9442,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8437,6 +9457,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8450,6 +9472,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8478,6 +9502,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8491,7 +9517,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -8503,6 +9532,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8531,6 +9562,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8544,6 +9577,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8557,7 +9592,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -8569,6 +9607,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8582,6 +9622,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8610,6 +9652,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8623,7 +9667,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -8635,7 +9682,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -8662,6 +9712,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8675,6 +9727,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8688,6 +9742,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8701,6 +9757,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8714,6 +9772,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8727,6 +9787,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8740,6 +9802,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8753,6 +9817,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8766,6 +9832,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8779,6 +9847,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8792,6 +9862,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8805,6 +9877,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8818,7 +9892,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -8830,6 +9907,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8843,6 +9922,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8856,6 +9937,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8869,6 +9952,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8882,6 +9967,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8895,6 +9982,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8908,7 +9997,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -8920,7 +10012,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -8947,6 +10042,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -8960,6 +10057,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -8973,6 +10072,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9001,6 +10102,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9014,6 +10117,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9027,6 +10132,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9040,6 +10147,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9053,6 +10162,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9066,6 +10177,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9079,6 +10192,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9092,6 +10207,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9105,6 +10222,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -9118,6 +10237,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -9131,7 +10252,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9143,7 +10267,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9155,6 +10282,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 2,
       "explanation": ""
@@ -9168,6 +10297,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -9181,7 +10312,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9193,7 +10327,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9205,6 +10342,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 2,
       "explanation": ""
@@ -9218,7 +10357,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9230,6 +10372,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9243,6 +10387,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9256,6 +10402,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9284,6 +10432,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9297,6 +10447,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -9325,6 +10477,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9353,6 +10507,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 2,
       "explanation": ""
@@ -9366,7 +10522,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9408,6 +10567,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9421,6 +10582,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -9449,6 +10612,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 2,
       "explanation": ""
@@ -9462,6 +10627,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9490,6 +10657,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 2,
       "explanation": ""
@@ -9503,6 +10672,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9516,7 +10687,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9528,6 +10702,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9541,6 +10717,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9554,6 +10732,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9567,6 +10747,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9580,6 +10762,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9593,7 +10777,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9605,7 +10792,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9617,6 +10807,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9630,6 +10822,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 1,
       "explanation": ""
@@ -9643,7 +10837,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9655,7 +10852,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9682,6 +10882,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9695,6 +10897,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9708,6 +10912,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9721,6 +10927,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9734,6 +10942,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9747,7 +10957,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9774,6 +10987,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9787,6 +11002,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9800,6 +11017,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9813,6 +11032,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9826,6 +11047,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9839,7 +11062,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9866,6 +11092,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9879,6 +11107,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9892,6 +11122,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9905,6 +11137,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9918,6 +11152,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9931,6 +11167,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9944,7 +11182,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9956,6 +11197,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9969,6 +11212,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9982,6 +11227,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -9995,6 +11242,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10008,6 +11257,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10021,7 +11272,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10033,6 +11287,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -10046,7 +11302,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10073,6 +11332,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10086,6 +11347,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -10099,7 +11362,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10111,7 +11377,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10123,7 +11392,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10135,6 +11407,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10148,6 +11422,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10161,7 +11437,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10173,6 +11452,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 2,
       "explanation": ""
@@ -10186,6 +11467,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10199,7 +11482,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10211,6 +11497,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10224,7 +11512,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10236,6 +11527,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 1,
       "explanation": ""
@@ -10249,6 +11542,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 1,
       "explanation": ""
@@ -10262,6 +11557,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10275,7 +11572,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10287,6 +11587,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10315,6 +11617,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10328,6 +11632,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10341,6 +11647,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10354,6 +11662,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10367,7 +11677,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10394,6 +11707,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10422,6 +11737,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10435,6 +11752,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10463,6 +11782,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10476,6 +11797,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10489,6 +11812,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -10517,6 +11842,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10530,7 +11857,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10572,6 +11902,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10585,7 +11917,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10597,6 +11932,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10640,6 +11977,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10653,6 +11992,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -10666,7 +12007,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10693,6 +12037,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10721,6 +12067,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -10734,6 +12082,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -10747,7 +12097,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10759,7 +12112,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10771,6 +12127,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10784,6 +12142,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10812,6 +12172,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10825,6 +12187,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10838,7 +12202,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -10850,6 +12217,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10878,6 +12247,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10906,6 +12277,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10934,6 +12307,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10947,6 +12322,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10960,6 +12337,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10973,6 +12352,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -10986,6 +12367,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11014,6 +12397,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11027,6 +12412,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11040,6 +12427,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11068,6 +12457,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11096,6 +12487,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -11124,6 +12517,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11137,7 +12532,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11164,6 +12562,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11192,6 +12592,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11220,6 +12622,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11233,6 +12637,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -11246,6 +12652,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -11259,7 +12667,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11271,6 +12682,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11284,6 +12697,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11297,7 +12712,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11309,6 +12727,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11322,6 +12742,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11335,6 +12757,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11348,6 +12772,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11361,6 +12787,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11374,7 +12802,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11401,6 +12832,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11429,6 +12862,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11457,6 +12892,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11485,6 +12922,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11513,6 +12952,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11541,6 +12982,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11554,6 +12997,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11567,7 +13012,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11579,6 +13027,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -11592,6 +13042,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11605,6 +13057,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -11618,7 +13072,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11630,6 +13087,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11643,7 +13102,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11655,6 +13117,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11668,7 +13132,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11680,6 +13147,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11693,6 +13162,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11706,6 +13177,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11719,6 +13192,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11732,6 +13207,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11745,7 +13222,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11757,6 +13237,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -11770,6 +13252,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11783,6 +13267,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11796,7 +13282,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11808,6 +13297,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -11821,6 +13312,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11834,6 +13327,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11847,6 +13342,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -11860,6 +13357,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -11873,7 +13372,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11885,6 +13387,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11898,6 +13402,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -11911,7 +13417,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11923,6 +13432,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -11936,7 +13447,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11948,6 +13462,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11961,7 +13477,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11973,6 +13492,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -11986,7 +13507,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -11998,6 +13522,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12011,7 +13537,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12023,6 +13552,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12036,6 +13567,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12049,6 +13582,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12062,6 +13597,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12075,6 +13612,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12088,6 +13627,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12101,7 +13642,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12113,6 +13657,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -12126,7 +13672,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12138,6 +13687,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12151,7 +13702,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12163,6 +13717,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12176,7 +13732,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12188,6 +13747,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12201,7 +13762,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12213,6 +13777,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -12226,7 +13792,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12238,6 +13807,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12251,6 +13822,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -12264,6 +13837,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12277,6 +13852,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -12290,7 +13867,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12302,6 +13882,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12315,6 +13897,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -12328,6 +13912,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12341,6 +13927,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12354,7 +13942,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12366,6 +13957,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12379,6 +13972,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12392,6 +13987,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12405,7 +14002,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12417,6 +14017,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12430,7 +14032,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12442,6 +14047,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12455,7 +14062,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12467,6 +14077,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12480,7 +14092,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12492,6 +14107,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12505,6 +14122,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 0,
       "explanation": ""
@@ -12518,6 +14137,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12531,7 +14152,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12558,6 +14182,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12586,6 +14212,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12614,6 +14242,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12642,6 +14272,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12670,6 +14302,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12698,6 +14332,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12711,6 +14347,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12724,6 +14362,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12737,6 +14377,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12750,7 +14392,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12762,7 +14407,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12789,6 +14437,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12802,6 +14452,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -12830,6 +14482,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12858,6 +14512,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -12871,6 +14527,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 4,
       "explanation": ""
@@ -12884,7 +14542,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12911,6 +14572,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12924,7 +14587,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -12936,6 +14602,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12964,6 +14632,8 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
       "category": 3,
       "explanation": ""
@@ -12977,7 +14647,10 @@
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
+      "nc": "",
+      "impact": "",
       "clarification": "",
+      "category": "",
       "explanation": ""
     }
   }
