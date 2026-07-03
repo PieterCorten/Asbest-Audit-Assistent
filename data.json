@@ -5024,7 +5024,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Eenvoudig bereikbaar",
     "description": "Foutieve toets eenvoudig bereikbaarheid",
     "error": "Bron435",
@@ -5039,7 +5039,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Eenvoudig bereikbaar",
     "description": "Toets eenvoudig bereikbaarheid foutief aangeduid",
     "error": "Bron435",
@@ -5052,7 +5052,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Eenvoudig bereikbaar",
     "description": "Foutieve motivatie bij toets eenvoudig bereikbaarheid",
     "error": "Bron436",
@@ -5067,7 +5067,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Eenvoudig bereikbaar",
     "description": "Niet-eenvoudig bereikbaar, maar verkeerde motivatie aangeduid",
     "error": "Bron436",
@@ -5080,7 +5080,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Eenvoudig bereikbaar",
     "description": "Andere",
     "error": "Bron440",
@@ -5093,7 +5093,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Mijlpaal",
     "description": "Foutieve mijlpaal cascade",
     "error": "Bron450",
@@ -5108,7 +5108,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Mijlpaal",
     "description": "Foutieve mijlpaal eigen keuze",
     "error": "Bron450",
@@ -5123,7 +5123,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Mijlpaal",
     "description": "Mijlpaal foutief aangeduid",
     "error": "Bron450",
@@ -5136,7 +5136,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Mijlpaal",
     "description": "Andere",
     "error": "Bron455",
@@ -5149,7 +5149,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Bijkomend onderzoek",
     "description": "Foutief bijkomend onderzoek beschreven",
     "error": "Bron465",
@@ -5162,7 +5162,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Bijkomend onderzoek",
     "description": "Geen bijkomende staalname aangeduid",
     "error": "Bron466",
@@ -5177,7 +5177,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Bijkomend onderzoek",
     "description": "Bijkomende staalname foutief  aangeduid",
     "error": "Bron466",
@@ -5192,7 +5192,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Bijkomend onderzoek",
     "description": "Geen bijkomende monstername aangeraden",
     "error": "Bron466",
@@ -5205,7 +5205,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Bijkomend onderzoek",
     "description": "Nuttig bijkomend onderzoek niet beschreven",
     "error": "Bron467",
@@ -5218,7 +5218,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Bijkomend onderzoek",
     "description": "Andere",
     "error": "Bron470",
@@ -5231,7 +5231,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Maatregelen",
     "description": "Foutieve maatregelen met impact",
     "error": "Bron480",
@@ -5246,7 +5246,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Maatregelen",
     "description": "Foutieve maatregelen zonder impact \nbv 2x zorgvuldig beheer of maatregel over hemelwater voor een deksteen/roofing/rookgasafvoer.",
     "error": "Bron480",
@@ -5261,7 +5261,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Maatregelen",
     "description": "Foutieve maatregelen beschreven",
     "error": "Bron480",
@@ -5274,7 +5274,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Maatregelen",
     "description": "Andere",
     "error": "Bron485",
@@ -5287,7 +5287,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Activiteiten die aanleiding geven tot blootstellingsrisico's",
     "description": "Activiteiten die aanleiding geven tot blootstellingsrisico's foutief beschreven",
     "error": "Bron495",
@@ -5300,7 +5300,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Activiteiten die aanleiding geven tot blootstellingsrisico's",
     "description": "Andere",
     "error": "Bron500",
@@ -5313,7 +5313,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Bevestigingswijze",
     "description": "Foutieve bevestigingswijze",
     "error": "Bron510",
@@ -5328,7 +5328,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Bevestigingswijze",
     "description": "Bevestigingswijze foutief of niet volledig aangeduid",
     "error": "Bron510",
@@ -5341,7 +5341,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Bevestigingswijze",
     "description": "Andere",
     "error": "Bron515",
@@ -5354,7 +5354,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Methodiek verwijdering",
     "description": "Methodiek foutief of niet volledig aangeduid - niet veilig genoeg",
     "error": "Bron525",
@@ -5367,7 +5367,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Methodiek verwijdering",
     "description": "Methodiek foutief of niet volledig aangeduid - te streng",
     "error": "Bron530",
@@ -5380,7 +5380,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Methodiek verwijdering",
     "description": "Motivatie is foutief",
     "error": "Bron535",
@@ -5393,7 +5393,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Methodiek verwijdering",
     "description": "Onvoldoende motivatie",
     "error": "Bron540",
@@ -5406,7 +5406,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Methodiek verwijdering",
     "description": "Advies verwijderingsmethode volledig onvoldoende",
     "error": "Bron542",
@@ -5421,7 +5421,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Methodiek verwijdering",
     "description": "Advies verwijderingsmethode gedeeltelijk onvoldoende",
     "error": "Bron542",
@@ -5436,7 +5436,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Methodiek verwijdering",
     "description": "Advies onvoldoende",
     "error": "Bron542",
@@ -5449,7 +5449,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Methodiek verwijdering",
     "description": "Andere",
     "error": "Bron545",
@@ -5462,7 +5462,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Andere verplichtingen",
     "description": "Andere verplichtingen foutief aangeduid",
     "error": "Bron555",
@@ -5475,7 +5475,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Andere verplichtingen",
     "description": "Andere",
     "error": "Bron560",
@@ -5488,7 +5488,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Notitie - conclusie",
     "description": "Notitieveld niet ingevuld wanneer dit kwalitatief in casu aangeraden is",
     "error": "Bron570",
@@ -5501,7 +5501,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Notitie - conclusie",
     "description": "Notitieveld niet correct, niet duidelijk of niet volledig ingevuld",
     "error": "Bron571",
@@ -5514,7 +5514,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Notitie - conclusie",
     "description": "Notitieveld niet ingevuld als dat verplicht is.",
     "error": "Bron572-2",
@@ -5527,7 +5527,7 @@
     }
   },
   {
-    "tab": "Brofiche - Conclusie",
+    "tab": "Bronfiche - Conclusie",
     "parameter": "Notitie - conclusie",
     "description": "Andere",
     "error": "Bron575",

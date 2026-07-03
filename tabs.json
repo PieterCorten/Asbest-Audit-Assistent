@@ -45,6 +45,13 @@
     ],
     "urlExclude": []
   },
+  "Lokalisatie - Constructieplannen": {
+    "endpoint": "lokalisatie",
+    "urlInclude": [
+      "lokalisatie/plan"
+    ],
+    "urlExclude": []
+  },
   "Fichebibliotheek": {
     "endpoint": "fichebibliotheek",
     "urlInclude": [
@@ -124,7 +131,7 @@
     ],
     "urlExclude": []
   },
-  "Brofiche - Conclusie": {
+  "Bronfiche - Conclusie": {
     "endpoint": "bronfiche/{id}",
     "urlInclude": [
       "bronfiche",
