@@ -8012,7 +8012,7 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche ontbrekend",
+    "description": "Eerste bronfiche ontbrekend",
     "error": "Fiche20",
     "modifyClarification": true,
     "greenDescription": true,
@@ -8027,7 +8027,7 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche mogelijks ontbrekend",
+    "description": "Eerste bronfiche mogelijks ontbrekend",
     "error": "Fiche20",
     "modifyClarification": true,
     "greenDescription": true,
@@ -8042,29 +8042,14 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - eerste ontbrekende fiche",
-    "error": "Fiche20",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - tweede ontbrekende fiche",
+    "description": "Tweede bronfiche ontbrekend",
     "error": "Fiche25",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet gerapporteerd in een bronfiche: XXX\nRapporteer het inspecteerbaar materiaal in een bronfiche en voer bijkomende monstername uit tenzij het niet nemen van een monster gemotiveerd kan worden.",
       "category": 3,
       "explanation": ""
     }
@@ -8072,14 +8057,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - derde ontbrekende fiche",
+    "description": "Tweede bronfiche mogelijks ontbrekend",
+    "error": "Fiche25",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend inspecteerbaar materiaal gerapporteerd diende te worden in een bronfiche: XXX\nKijk dit materiaal na. Rapporteer het inspecteerbaar materiaal - indien nodig - in een bronfiche. Voer in dat geval ook bijkomende monstername uit tenzij dat het niet nemen van een monster gemotiveerd kan worden.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Derde bronfiche ontbrekend",
     "error": "Fiche30",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet gerapporteerd in een bronfiche: XXX\nRapporteer het inspecteerbaar materiaal in een bronfiche en voer bijkomende monstername uit tenzij het niet nemen van een monster gemotiveerd kan worden.",
       "category": 3,
       "explanation": ""
     }
@@ -8087,14 +8087,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - vierde ontbrekende fiche",
+    "description": "Derde bronfiche mogelijks ontbrekend",
+    "error": "Fiche30",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend inspecteerbaar materiaal gerapporteerd diende te worden in een bronfiche: XXX\nKijk dit materiaal na. Rapporteer het inspecteerbaar materiaal - indien nodig - in een bronfiche. Voer in dat geval ook bijkomende monstername uit tenzij dat het niet nemen van een monster gemotiveerd kan worden.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Vierde bronfiche ontbrekend",
     "error": "Fiche35",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet gerapporteerd in een bronfiche: XXX\nRapporteer het inspecteerbaar materiaal in een bronfiche en voer bijkomende monstername uit tenzij het niet nemen van een monster gemotiveerd kan worden.",
       "category": 3,
       "explanation": ""
     }
@@ -8102,14 +8117,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - vijfde ontbrekende fiche",
+    "description": "Vierde bronfiche mogelijks ontbrekend",
+    "error": "Fiche35",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend inspecteerbaar materiaal gerapporteerd diende te worden in een bronfiche: XXX\nKijk dit materiaal na. Rapporteer het inspecteerbaar materiaal - indien nodig - in een bronfiche. Voer in dat geval ook bijkomende monstername uit tenzij dat het niet nemen van een monster gemotiveerd kan worden.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Vijfde bronfiche ontbrekend",
     "error": "Fiche40",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet gerapporteerd in een bronfiche: XXX\nRapporteer het inspecteerbaar materiaal in een bronfiche en voer bijkomende monstername uit tenzij het niet nemen van een monster gemotiveerd kan worden.",
       "category": 3,
       "explanation": ""
     }
@@ -8117,14 +8147,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - zesde ontbrekende fiche",
+    "description": "Vijfde bronfiche mogelijks ontbrekend",
+    "error": "Fiche40",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend inspecteerbaar materiaal gerapporteerd diende te worden in een bronfiche: XXX\nKijk dit materiaal na. Rapporteer het inspecteerbaar materiaal - indien nodig - in een bronfiche. Voer in dat geval ook bijkomende monstername uit tenzij dat het niet nemen van een monster gemotiveerd kan worden.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Zesde bronfiche ontbrekend",
     "error": "Fiche45",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet gerapporteerd in een bronfiche: XXX\nRapporteer het inspecteerbaar materiaal in een bronfiche en voer bijkomende monstername uit tenzij het niet nemen van een monster gemotiveerd kan worden.",
       "category": 3,
       "explanation": ""
     }
@@ -8132,14 +8177,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - zevende ontbrekende fiche",
+    "description": "Zesde bronfiche mogelijks ontbrekend",
+    "error": "Fiche45",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend inspecteerbaar materiaal gerapporteerd diende te worden in een bronfiche: XXX\nKijk dit materiaal na. Rapporteer het inspecteerbaar materiaal - indien nodig - in een bronfiche. Voer in dat geval ook bijkomende monstername uit tenzij dat het niet nemen van een monster gemotiveerd kan worden.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Zevende bronfiche ontbrekend",
     "error": "Fiche50",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet gerapporteerd in een bronfiche: XXX\nRapporteer het inspecteerbaar materiaal in een bronfiche en voer bijkomende monstername uit tenzij het niet nemen van een monster gemotiveerd kan worden.",
       "category": 3,
       "explanation": ""
     }
@@ -8147,14 +8207,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - achtste ontbrekende fiche",
+    "description": "Zevende bronfiche mogelijks ontbrekend",
+    "error": "Fiche50",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend inspecteerbaar materiaal gerapporteerd diende te worden in een bronfiche: XXX\nKijk dit materiaal na. Rapporteer het inspecteerbaar materiaal - indien nodig - in een bronfiche. Voer in dat geval ook bijkomende monstername uit tenzij dat het niet nemen van een monster gemotiveerd kan worden.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Achtste bronfiche ontbrekend",
     "error": "Fiche55",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet gerapporteerd in een bronfiche: XXX\nRapporteer het inspecteerbaar materiaal in een bronfiche en voer bijkomende monstername uit tenzij het niet nemen van een monster gemotiveerd kan worden.",
       "category": 3,
       "explanation": ""
     }
@@ -8162,14 +8237,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - negende ontbrekende fiche",
+    "description": "Achtste bronfiche mogelijks ontbrekend",
+    "error": "Fiche55",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend inspecteerbaar materiaal gerapporteerd diende te worden in een bronfiche: XXX\nKijk dit materiaal na. Rapporteer het inspecteerbaar materiaal - indien nodig - in een bronfiche. Voer in dat geval ook bijkomende monstername uit tenzij dat het niet nemen van een monster gemotiveerd kan worden.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Negende bronfiche ontbrekend",
     "error": "Fiche60",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet gerapporteerd in een bronfiche: XXX\nRapporteer het inspecteerbaar materiaal in een bronfiche en voer bijkomende monstername uit tenzij het niet nemen van een monster gemotiveerd kan worden.",
       "category": 3,
       "explanation": ""
     }
@@ -8177,16 +8267,46 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - tiende ontbrekende fiche",
+    "description": "Negende bronfiche mogelijks ontbrekend",
+    "error": "Fiche60",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend inspecteerbaar materiaal gerapporteerd diende te worden in een bronfiche: XXX\nKijk dit materiaal na. Rapporteer het inspecteerbaar materiaal - indien nodig - in een bronfiche. Voer in dat geval ook bijkomende monstername uit tenzij dat het niet nemen van een monster gemotiveerd kan worden.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Tiende bronfiche ontbrekend",
     "error": "Fiche65",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet gerapporteerd in een bronfiche: XXX\nRapporteer het inspecteerbaar materiaal in een bronfiche en voer bijkomende monstername uit tenzij het niet nemen van een monster gemotiveerd kan worden.",
       "category": 3,
       "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Tiende bronfiche mogelijks ontbrekend",
+    "error": "Fiche65",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend inspecteerbaar materiaal gerapporteerd diende te worden in een bronfiche: XXX\nKijk dit materiaal na. Rapporteer het inspecteerbaar materiaal - indien nodig - in een bronfiche. Voer in dat geval ook bijkomende monstername uit tenzij dat het niet nemen van een monster gemotiveerd kan worden.",
+      "category": 0,
+      "explanation": "Niet zeker."
     }
   },
   {
