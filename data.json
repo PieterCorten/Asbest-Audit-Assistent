@@ -11477,7 +11477,7 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekende afvalstof",
-    "description": "Afval gemist",
+    "description": "Eerste afval gemist",
     "error": "Terr530",
     "modifyClarification": true,
     "greenDescription": true,
@@ -11492,29 +11492,14 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekende afvalstof",
-    "description": "Niet alle inspecteerbare materialen werden onderzocht - eerste ontbrekende afvalstof",
-    "error": "Terr530",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekende afvalstof",
-    "description": "Niet alle inspecteerbare materialen werden onderzocht - tweede ontbrekende afvalstof",
+    "description": "Tweede afval gemist",
     "error": "Terr531",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet onderzocht: XXX\nOnderzoek steeds alle inspecteerbare afvalstoffen die zich in het inspectiegebied bevinden.",
       "category": 3,
       "explanation": ""
     }
@@ -11522,14 +11507,14 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekende afvalstof",
-    "description": "Niet alle inspecteerbare materialen werden onderzocht - derde ontbrekende afvalstof",
+    "description": "Derde afval gemist",
     "error": "Terr532",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet onderzocht: XXX\nOnderzoek steeds alle inspecteerbare afvalstoffen die zich in het inspectiegebied bevinden.",
       "category": 3,
       "explanation": ""
     }
@@ -11537,14 +11522,14 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekende afvalstof",
-    "description": "Niet alle inspecteerbare materialen werden onderzocht - vierde ontbrekende afvalstof",
+    "description": "Vierde afval gemist",
     "error": "Terr533",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet onderzocht: XXX\nOnderzoek steeds alle inspecteerbare afvalstoffen die zich in het inspectiegebied bevinden.",
       "category": 3,
       "explanation": ""
     }
@@ -11552,14 +11537,14 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekende afvalstof",
-    "description": "Niet alle inspecteerbare materialen werden onderzocht - vijfde ontbrekende afvalstof",
+    "description": "Vijfde afval gemist",
     "error": "Terr534",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet onderzocht: XXX\nOnderzoek steeds alle inspecteerbare afvalstoffen die zich in het inspectiegebied bevinden.",
       "category": 3,
       "explanation": ""
     }
