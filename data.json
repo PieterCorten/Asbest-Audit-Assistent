@@ -1,6 +1,111 @@
 [
   {
     "tab": "Adviesfiche - Algemeen",
+    "parameter": "annotaties en leesbaarheid per fiche",
+    "description": "Toepassing of zone niet of niet correct aangeduid",
+    "error": "Advi29",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 6.3.5 beschrijft de plannen. \n\nDe toepassing of zone werd niet correct aangeduid op de constructieplannen of de plattegrond. \nAnnoteer elke toepassing of zone correct op de constructieplannen of de plattegrond.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Algemeen",
+    "parameter": "annotaties en leesbaarheid per fiche",
+    "description": "Toepassing of zone niet of niet correct aangeduid",
+    "error": "Advi29",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Algemeen",
+    "parameter": "annotaties en leesbaarheid per fiche",
+    "description": "Annotaties niet correct aangeduid",
+    "error": "Advi31",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Algemeen",
+    "parameter": "annotaties en leesbaarheid per fiche",
+    "description": "Andere",
+    "error": "Advi35",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Algemeen",
+    "parameter": "gebruik fiche",
+    "description": "Geen aparte adviesfiches opgesteld als dit wel verplicht is",
+    "error": "Advi56-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 6.4.1.4 beschrijft de optionele adviesfiche. \nGebruikershandleiding titel 3.5.1.2 beschrijft inspectiefiches. \n\nEr werden verschillende materialen, ruimtes of zones beschreven in één adviesfiche.\nBeschrijf de verschillende materialen, ruimtes of zones in aparte adviesfiches.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Algemeen",
+    "parameter": "gebruik fiche",
+    "description": "Geen aparte adviesfiches opgesteld als dit wel verplicht is",
+    "error": "Advi56-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Algemeen",
+    "parameter": "gebruik fiche",
+    "description": "Andere",
+    "error": "Advi60",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Algemeen",
     "parameter": "gebruik fiche",
     "description": "Foutief adviesfiche gebruikt in plaats van bronfiche.",
     "error": "Advi101-2",
@@ -195,111 +300,6 @@
     }
   },
   {
-    "tab": "Adviesfiche - Algemeen",
-    "parameter": "annotaties en leesbaarheid per fiche",
-    "description": "Toepassing of zone niet of niet correct aangeduid",
-    "error": "Advi29",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 6.3.5 beschrijft de plannen. \n\nDe toepassing of zone werd niet correct aangeduid op de constructieplannen of de plattegrond. \nAnnoteer elke toepassing of zone correct op de constructieplannen of de plattegrond.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Algemeen",
-    "parameter": "annotaties en leesbaarheid per fiche",
-    "description": "Toepassing of zone niet of niet correct aangeduid",
-    "error": "Advi29",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Algemeen",
-    "parameter": "annotaties en leesbaarheid per fiche",
-    "description": "Annotaties niet correct aangeduid",
-    "error": "Advi31",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Algemeen",
-    "parameter": "annotaties en leesbaarheid per fiche",
-    "description": "Andere",
-    "error": "Advi35",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Algemeen",
-    "parameter": "gebruik fiche",
-    "description": "Geen aparte adviesfiches opgesteld als dit wel verplicht is",
-    "error": "Advi56-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 6.4.1.4 beschrijft de optionele adviesfiche. \nGebruikershandleiding titel 3.5.1.2 beschrijft inspectiefiches. \n\nEr werden verschillende materialen, ruimtes of zones beschreven in één adviesfiche.\nBeschrijf de verschillende materialen, ruimtes of zones in aparte adviesfiches.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Algemeen",
-    "parameter": "gebruik fiche",
-    "description": "Geen aparte adviesfiches opgesteld als dit wel verplicht is",
-    "error": "Advi56-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Algemeen",
-    "parameter": "gebruik fiche",
-    "description": "Andere",
-    "error": "Advi60",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
     "tab": "Adviesfiche - Foto",
     "parameter": "kwaliteit foto",
     "description": "Geen relevante foto verplicht te beschrijven materiaal - NAV",
@@ -484,6 +484,231 @@
     "parameter": "kwaliteit foto",
     "description": "Andere",
     "error": "Advi200",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "beschrijving",
+    "description": "Beschrijving onduidelijk of het om niet-asbestverdacht of niet waarneembaar materiaal gaat",
+    "error": "Advi75",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "Gebruikershandleiding titel 3.5.2 beschrijft de beschrijving van het materiaal. \n\nDe beschrijving van de fiche is onvoldoende duidelijk geformuleerd en is niet afgestemd op de basis voor advies en het type advies. \n- Kies bij een beschrijving van niet-asbestverdachte materialen voor:\n  Basis voor advies: vaststelling en expertise \n  Type Advies: niet-asbestverdacht materiaal. \n  Notitie: Geef extra toelichting over het besproken materiaal.\n- Kies bij een beschrijving van niet-waarneembare asbestverdachte materialen voor:\n  Basis voor advies: expertise zonder vaststelling \n  Type advies: Niet-waarneembaar of vast te stellen materiaal.\n  Notitie: Geef extra toelichting over het besproken materiaal.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "beschrijving",
+    "description": "Beschrijving fiche niet duidelijk\nmet impact: enkel een NC indien dit kan leiden tot het niet kunnen identificeren van de toepassing",
+    "error": "Advi75",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "Gebruikershandleiding titel 3.5.2 beschrijft de beschrijving van het materiaal. \n\nHet materiaal werd onvoldoende duidelijk beschreven.\nKies voor een duidelijke en ondubbelzinnige beschrijving van het materiaal. Neem de locatie van de toepassing of het materiaal op in de naam, wanneer dit nodig is voor de identificatie van het materiaal.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "beschrijving",
+    "description": "Beschrijving advies is foutief of niet volledig",
+    "error": "Advi75",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "beschrijving",
+    "description": "Andere",
+    "error": "Advi80",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "Basis voor advies",
+    "description": "Beschrijving NAV - Basis",
+    "error": "Advi91-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "Leidraad inspectieprotocol versie 2.2 titel 6.4.1.4 beschrijft de basis voor het advies.  \n\nDe fiche bespreekt een niet-asbestverdachte materiaal. Hiervoor werd de basis voor het advies verkeerd gekozen. \nKies als basis voor advies voor : Vaststelling en expertise.",
+      "category": 4,
+      "explanation": "geen impact op veiligheid of waarde van het pand"
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "Basis voor advies",
+    "description": "Beschrijving niet waarneembaar - Basis",
+    "error": "Advi91-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "Leidraad inspectieprotocol versie 2.2 titel 6.4.1.4 beschrijft de basis voor het advies.  \n\nDe fiche bespreekt niet-waarneembare materialen. Hiervoor werd de basis voor het advies verkeerd gekozen. \nKies als basis voor advies voor: Expertise zonder vaststelling.",
+      "category": 4,
+      "explanation": "geen impact op veiligheid of waarde van het pand"
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "Basis voor advies",
+    "description": "Foutief \"Voorkennis door asbestdeskundige\" aangeduid",
+    "error": "Advi91-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "Leidraad inspectieprotocol versie 2.2 titel 6.4.1.4 beschrijft de basis voor het advies.  \n\nDe basis voor advies werd verkeerd gekozen.  \nKies als basis voor advies voor: Vaststelling en expertise.",
+      "category": 4,
+      "explanation": "geen impact op veiligheid of waarde van het pand"
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "Basis voor advies",
+    "description": "Basis voor advies foutief aangeduid",
+    "error": "Advi91-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "Type bewijsdocument",
+    "description": "Foutief type bewijsdocument aangeduid",
+    "error": "Advi92-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "Type bewijsdocument",
+    "description": "Andere",
+    "error": "Advi93-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "Basis voor advies",
+    "description": "Monstername door deskundige",
+    "error": "Advi94-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.9.3.1 beschrijft de verplichte monstername.\nLeidraad inspectieprotocol versie 2.2 titel 6.4.1.4 beschrijft de basis voor het advies.  \n\nMaterialen die niet toebehoren aan de eigenaar voor wie de asbestdeskundige de asbestinventarisatie uitvoert kunnen niet bemonsterd worden zonder toelating van de eigenaar van dat materiaal. \nLaad de toelating voor de monstername op in de databank onder het tabblad: Bewijsdocumenten.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "Basis voor advies",
+    "description": "Materiaal van een andere eigenaar bemonsterd zonder te beschikken over een toelating van die eigenaar.",
+    "error": "Advi94-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "Basis voor advies",
+    "description": "Andere",
+    "error": "Advi95-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "Type advies",
+    "description": "Type advies foutief aangeduid",
+    "error": "Advi96-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Adviesfiche - Identificatie",
+    "parameter": "Type advies",
+    "description": "Andere",
+    "error": "Advi99-2",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -930,231 +1155,6 @@
     }
   },
   {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "beschrijving",
-    "description": "Beschrijving onduidelijk of het om niet-asbestverdacht of niet waarneembaar materiaal gaat",
-    "error": "Advi75",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "Gebruikershandleiding titel 3.5.2 beschrijft de beschrijving van het materiaal. \n\nDe beschrijving van de fiche is onvoldoende duidelijk geformuleerd en is niet afgestemd op de basis voor advies en het type advies. \n- Kies bij een beschrijving van niet-asbestverdachte materialen voor:\n  Basis voor advies: vaststelling en expertise \n  Type Advies: niet-asbestverdacht materiaal. \n  Notitie: Geef extra toelichting over het besproken materiaal.\n- Kies bij een beschrijving van niet-waarneembare asbestverdachte materialen voor:\n  Basis voor advies: expertise zonder vaststelling \n  Type advies: Niet-waarneembaar of vast te stellen materiaal.\n  Notitie: Geef extra toelichting over het besproken materiaal.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "beschrijving",
-    "description": "Beschrijving fiche niet duidelijk\nmet impact: enkel een NC indien dit kan leiden tot het niet kunnen identificeren van de toepassing",
-    "error": "Advi75",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "Gebruikershandleiding titel 3.5.2 beschrijft de beschrijving van het materiaal. \n\nHet materiaal werd onvoldoende duidelijk beschreven.\nKies voor een duidelijke en ondubbelzinnige beschrijving van het materiaal. Neem de locatie van de toepassing of het materiaal op in de naam, wanneer dit nodig is voor de identificatie van het materiaal.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "beschrijving",
-    "description": "Beschrijving advies is foutief of niet volledig",
-    "error": "Advi75",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "beschrijving",
-    "description": "Andere",
-    "error": "Advi80",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "Basis voor advies",
-    "description": "Beschrijving NAV - Basis",
-    "error": "Advi91-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "Leidraad inspectieprotocol versie 2.2 titel 6.4.1.4 beschrijft de basis voor het advies.  \n\nDe fiche bespreekt een niet-asbestverdachte materiaal. Hiervoor werd de basis voor het advies verkeerd gekozen. \nKies als basis voor advies voor : Vaststelling en expertise.",
-      "category": 4,
-      "explanation": "geen impact op veiligheid of waarde van het pand"
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "Basis voor advies",
-    "description": "Beschrijving niet waarneembaar - Basis",
-    "error": "Advi91-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "Leidraad inspectieprotocol versie 2.2 titel 6.4.1.4 beschrijft de basis voor het advies.  \n\nDe fiche bespreekt niet-waarneembare materialen. Hiervoor werd de basis voor het advies verkeerd gekozen. \nKies als basis voor advies voor: Expertise zonder vaststelling.",
-      "category": 4,
-      "explanation": "geen impact op veiligheid of waarde van het pand"
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "Basis voor advies",
-    "description": "Foutief \"Voorkennis door asbestdeskundige\" aangeduid",
-    "error": "Advi91-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "Leidraad inspectieprotocol versie 2.2 titel 6.4.1.4 beschrijft de basis voor het advies.  \n\nDe basis voor advies werd verkeerd gekozen.  \nKies als basis voor advies voor: Vaststelling en expertise.",
-      "category": 4,
-      "explanation": "geen impact op veiligheid of waarde van het pand"
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "Basis voor advies",
-    "description": "Basis voor advies foutief aangeduid",
-    "error": "Advi91-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "Type bewijsdocument",
-    "description": "Foutief type bewijsdocument aangeduid",
-    "error": "Advi92-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "Type bewijsdocument",
-    "description": "Andere",
-    "error": "Advi93-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "Basis voor advies",
-    "description": "Monstername door deskundige",
-    "error": "Advi94-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 5.9.3.1 beschrijft de verplichte monstername.\nLeidraad inspectieprotocol versie 2.2 titel 6.4.1.4 beschrijft de basis voor het advies.  \n\nMaterialen die niet toebehoren aan de eigenaar voor wie de asbestdeskundige de asbestinventarisatie uitvoert kunnen niet bemonsterd worden zonder toelating van de eigenaar van dat materiaal. \nLaad de toelating voor de monstername op in de databank onder het tabblad: Bewijsdocumenten.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "Basis voor advies",
-    "description": "Materiaal van een andere eigenaar bemonsterd zonder te beschikken over een toelating van die eigenaar.",
-    "error": "Advi94-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "Basis voor advies",
-    "description": "Andere",
-    "error": "Advi95-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "Type advies",
-    "description": "Type advies foutief aangeduid",
-    "error": "Advi96-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Adviesfiche - Identificatie",
-    "parameter": "Type advies",
-    "description": "Andere",
-    "error": "Advi99-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
     "tab": "Afdruipzonefiche - Afdruipzones",
     "parameter": "Aanduiding afdruipzones op kaart",
     "description": "Afdruipzone niet geannoteerd op de kaart voor afdruipzones",
@@ -1211,6 +1211,36 @@
       "impact": "",
       "clarification": "",
       "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Afdruipzonefiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief aantal afdruipzones",
+    "error": "Afdr50",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 6.4.1.5 beschrijft de afdruipzonefiche. \n\nAfdruip en afvloei die voorkomen aan verschillende constructies werden foutief beschreven in één afdruip- of afvloeifiche. \nRapporteeer de afdruip en/of afvloei per constructie.",
+      "category": 0,
+      "explanation": " "
+    }
+  },
+  {
+    "tab": "Afdruipzonefiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Andere",
+    "error": "Afdr50",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -1406,36 +1436,6 @@
       "impact": "",
       "clarification": "",
       "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Afdruipzonefiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief aantal afdruipzones",
-    "error": "Afdr50",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 6.4.1.5 beschrijft de afdruipzonefiche. \n\nAfdruip en afvloei die voorkomen aan verschillende constructies werden foutief beschreven in één afdruip- of afvloeifiche. \nRapporteeer de afdruip en/of afvloei per constructie.",
-      "category": 0,
-      "explanation": " "
-    }
-  },
-  {
-    "tab": "Afdruipzonefiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Andere",
-    "error": "Afdr50",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
       "explanation": ""
     }
   },
@@ -1696,6 +1696,96 @@
   },
   {
     "tab": "Afdruipzonefiche - Identificatie",
+    "parameter": "Beschrijving",
+    "description": "Beschrijving fiche niet duidelijk\nmet impact: enkel een NC indien dit kan leiden tot het niet kunnen identificeren van de toepassing",
+    "error": "Afdr65",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "Gebruikershandleiding titel 3.5.2 beschrijft de beschrijving van het materiaal. \n\nHet materiaal werd onvoldoende duidelijk beschreven.\nKies voor een duidelijke en ondubbelzinnige beschrijving van het materiaal. Neem de locatie van de toepassing of het materiaal op in de naam, wanneer dit nodig is voor de identificatie van het materiaal.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Afdruipzonefiche - Identificatie",
+    "parameter": "Beschrijving",
+    "description": "Beschrijving afdruipzone is foutief of niet volledig",
+    "error": "Afdr65",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Afdruipzonefiche - Identificatie",
+    "parameter": "Beschrijving",
+    "description": "Andere",
+    "error": "Afdr70",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Afdruipzonefiche - Identificatie",
+    "parameter": "Bron aanwezig",
+    "description": "Foutief aangeduid of de bron nog aanwezig is",
+    "error": "Afdr80",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Afdruipzonefiche - Identificatie",
+    "parameter": "Bron aanwezig",
+    "description": "Andere",
+    "error": "Afdr85",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Afdruipzonefiche - Identificatie",
+    "parameter": "Hoeveelheid",
+    "description": "Hoeveelheid foutief ingeschat of opgemeten",
+    "error": "Afdr95",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Afdruipzonefiche - Identificatie",
     "parameter": "Hoeveelheid",
     "description": "Andere",
     "error": "Afdr100",
@@ -1796,96 +1886,6 @@
       "impact": "",
       "clarification": "",
       "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Afdruipzonefiche - Identificatie",
-    "parameter": "Beschrijving",
-    "description": "Beschrijving fiche niet duidelijk\nmet impact: enkel een NC indien dit kan leiden tot het niet kunnen identificeren van de toepassing",
-    "error": "Afdr65",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "Gebruikershandleiding titel 3.5.2 beschrijft de beschrijving van het materiaal. \n\nHet materiaal werd onvoldoende duidelijk beschreven.\nKies voor een duidelijke en ondubbelzinnige beschrijving van het materiaal. Neem de locatie van de toepassing of het materiaal op in de naam, wanneer dit nodig is voor de identificatie van het materiaal.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Afdruipzonefiche - Identificatie",
-    "parameter": "Beschrijving",
-    "description": "Beschrijving afdruipzone is foutief of niet volledig",
-    "error": "Afdr65",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Afdruipzonefiche - Identificatie",
-    "parameter": "Beschrijving",
-    "description": "Andere",
-    "error": "Afdr70",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Afdruipzonefiche - Identificatie",
-    "parameter": "Bron aanwezig",
-    "description": "Foutief aangeduid of de bron nog aanwezig is",
-    "error": "Afdr80",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Afdruipzonefiche - Identificatie",
-    "parameter": "Bron aanwezig",
-    "description": "Andere",
-    "error": "Afdr85",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Afdruipzonefiche - Identificatie",
-    "parameter": "Hoeveelheid",
-    "description": "Hoeveelheid foutief ingeschat of opgemeten",
-    "error": "Afdr95",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 4,
       "explanation": ""
     }
   },
@@ -3691,156 +3691,6 @@
   },
   {
     "tab": "Algemene info - Details",
-    "parameter": "Bouwjaar",
-    "description": "Bouwjaar niet correct",
-    "error": "Alge106-2",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 3.2.3 beschrijft het bouwjaar.\n\nHet bouwjaar in de databank komt niet overeen met het bouwjaar vermeld in XXX.\nNeem het bouwjaar correct over uit bovenstaande document.",
-      "category": 4,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Algemene info - Details",
-    "parameter": "Bouwjaar",
-    "description": "Het bouwjaar werd niet correct ingevoerd in de databank.",
-    "error": "Alge106-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 4,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Algemene info - Details",
-    "parameter": "Bouwjaar",
-    "description": "De bewijsdocumenten om het bouwjaar te bepalen werden foutief gebruikt.",
-    "error": "Alge107-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 4,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Algemene info - Details",
-    "parameter": "Bouwjaar",
-    "description": "Bouwjaar - andere",
-    "error": "Alge110",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Algemene info - Details",
-    "parameter": "Bestemming - feitelijk gebruik",
-    "description": "Er is een foutieve bestemming (feitelijk gebruik) aangeduid.",
-    "error": "Alge121",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 4,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Algemene info - Details",
-    "parameter": "Bestemming - feitelijk gebruik",
-    "description": "Het feitelijk gebruik is juist aangeduid, maar de categorie is fout aangeduid.",
-    "error": "Alge135",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 4,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Algemene info - Details",
-    "parameter": "Bestemming - feitelijk gebruik",
-    "description": "Bestemming - feitelijk gebruik - andere",
-    "error": "Alge140",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Algemene info - Details",
-    "parameter": "Gegevens eigenaar",
-    "description": "Er is foutief aangeduid of de eigenaar ook de gebruiker is.",
-    "error": "Alge150",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 4,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Algemene info - Details",
-    "parameter": "Gegevens eigenaar",
-    "description": "Het KBO-nummer van de VME is niet correct vermeld.",
-    "error": "Alge155",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 4,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Algemene info - Details",
-    "parameter": "Gegevens eigenaar",
-    "description": "Gegevens eigenaar - andere",
-    "error": "Alge160",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Algemene info - Details",
     "parameter": "Kwaliteit foto",
     "description": "De algemene kwaliteit van de overzichtsfoto is onvoldoende (algemeen).",
     "error": "Alge18-2",
@@ -4189,6 +4039,156 @@
     "parameter": "Vloeroppervlakte",
     "description": "Vloeroppervlakte - andere",
     "error": "Alge95",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Algemene info - Details",
+    "parameter": "Bouwjaar",
+    "description": "Bouwjaar niet correct",
+    "error": "Alge106-2",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 3.2.3 beschrijft het bouwjaar.\n\nHet bouwjaar in de databank komt niet overeen met het bouwjaar vermeld in XXX.\nNeem het bouwjaar correct over uit bovenstaande document.",
+      "category": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Algemene info - Details",
+    "parameter": "Bouwjaar",
+    "description": "Het bouwjaar werd niet correct ingevoerd in de databank.",
+    "error": "Alge106-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Algemene info - Details",
+    "parameter": "Bouwjaar",
+    "description": "De bewijsdocumenten om het bouwjaar te bepalen werden foutief gebruikt.",
+    "error": "Alge107-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Algemene info - Details",
+    "parameter": "Bouwjaar",
+    "description": "Bouwjaar - andere",
+    "error": "Alge110",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Algemene info - Details",
+    "parameter": "Bestemming - feitelijk gebruik",
+    "description": "Er is een foutieve bestemming (feitelijk gebruik) aangeduid.",
+    "error": "Alge121",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Algemene info - Details",
+    "parameter": "Bestemming - feitelijk gebruik",
+    "description": "Het feitelijk gebruik is juist aangeduid, maar de categorie is fout aangeduid.",
+    "error": "Alge135",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Algemene info - Details",
+    "parameter": "Bestemming - feitelijk gebruik",
+    "description": "Bestemming - feitelijk gebruik - andere",
+    "error": "Alge140",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Algemene info - Details",
+    "parameter": "Gegevens eigenaar",
+    "description": "Er is foutief aangeduid of de eigenaar ook de gebruiker is.",
+    "error": "Alge150",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Algemene info - Details",
+    "parameter": "Gegevens eigenaar",
+    "description": "Het KBO-nummer van de VME is niet correct vermeld.",
+    "error": "Alge155",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Algemene info - Details",
+    "parameter": "Gegevens eigenaar",
+    "description": "Gegevens eigenaar - andere",
+    "error": "Alge160",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -4846,6 +4846,171 @@
   },
   {
     "tab": "Beperkingsfiche - Identificatie",
+    "parameter": "Beschrijving",
+    "description": "Beschrijving beperking is foutief of niet volledig",
+    "error": "Bepe75",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "Gebruikershandleiding titel 3.5.2 beschrijft de beschrijving van het materiaal. \n\nHet materiaal werd onvoldoende duidelijk beschreven.\nKies voor een duidelijke en ondubbelzinnige beschrijving van het materiaal. Neem de locatie van de toepassing of het materiaal op in de naam, wanneer dit nodig is voor de identificatie van het materiaal.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Beperkingsfiche - Identificatie",
+    "parameter": "Beschrijving",
+    "description": "Beschrijving beperking is foutief of niet volledig",
+    "error": "Bepe75",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Beperkingsfiche - Identificatie",
+    "parameter": "Beschrijving",
+    "description": "Andere",
+    "error": "Bepe80",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Beperkingsfiche - Identificatie",
+    "parameter": "Verplicht te beschrijven ruimte of materiaal",
+    "description": "Verkeerde verplicht te beschrijven ruimte of materiaal",
+    "error": "Bepe85-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 6.4.5 beschrijft de verplicht te beschrijven ruimtes en materialen.\n\nHet verplicht te beschrijven materiaal of ruimte werd niet correct gekozen.\nKies het correcte materiaal of ruimte dat beschreven wordt in de dropdown.",
+      "category": 4,
+      "explanation": "geen impact op veiligheid of de waarde van het pand"
+    }
+  },
+  {
+    "tab": "Beperkingsfiche - Identificatie",
+    "parameter": "Verplicht te beschrijven ruimte of materiaal",
+    "description": "Verkeerde verplicht te beschrijven ruimte of materiaal aangeduid.",
+    "error": "Bepe85-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Beperkingsfiche - Identificatie",
+    "parameter": "Verplicht te beschrijven ruimte of materiaal",
+    "description": "Verplicht te beschrijven ruimte of materiaal niet aangeduid.",
+    "error": "Bepe86-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 6.4.5 beschrijft de verplicht te beschrijven ruimtes en materialen.\n\nDit materiaal of ruimte werd niet ingegeven als een verplicht te beschrijven ruimte of materiaal. \nKies het materiaal of de ruimte dat beschreven wordt in de dropdown.",
+      "category": 4,
+      "explanation": "geen impact op veiligheid of de waarde van het pand"
+    }
+  },
+  {
+    "tab": "Beperkingsfiche - Identificatie",
+    "parameter": "Verplicht te beschrijven ruimte of materiaal",
+    "description": "Verplicht te beschrijven ruimte of materiaal niet aangeduid.",
+    "error": "Bepe86-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Beperkingsfiche - Identificatie",
+    "parameter": "Verplicht te beschrijven ruimte of materiaal",
+    "description": "Verplicht te beschrijven ruimte of materiaal - andere",
+    "error": "Bepe87-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Beperkingsfiche - Identificatie",
+    "parameter": "Beperkingstype",
+    "description": "Verkeerdelijk permanente beperking aangeduid bij hoogte",
+    "error": "Bepe90",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.6.1 beschrijft de aard van de onderzoeksbeperkingen. \n\nEen onderzoeksbeperking wegens hoogte is niet permanent van aard. \nKies voor volgende beperkingstype: Middellange termijn.",
+      "category": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Beperkingsfiche - Identificatie",
+    "parameter": "Beperkingstype",
+    "description": "Beperkingstype foutief aangeduid",
+    "error": "Bepe90",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Beperkingsfiche - Identificatie",
+    "parameter": "Beperkingstype",
+    "description": "Andere",
+    "error": "Bepe95",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Beperkingsfiche - Identificatie",
     "parameter": "Beperkingsreden",
     "description": "Beperkingsreden is foutief",
     "error": "Bepe105",
@@ -5085,171 +5250,6 @@
     }
   },
   {
-    "tab": "Beperkingsfiche - Identificatie",
-    "parameter": "Beschrijving",
-    "description": "Beschrijving beperking is foutief of niet volledig",
-    "error": "Bepe75",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "Gebruikershandleiding titel 3.5.2 beschrijft de beschrijving van het materiaal. \n\nHet materiaal werd onvoldoende duidelijk beschreven.\nKies voor een duidelijke en ondubbelzinnige beschrijving van het materiaal. Neem de locatie van de toepassing of het materiaal op in de naam, wanneer dit nodig is voor de identificatie van het materiaal.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Beperkingsfiche - Identificatie",
-    "parameter": "Beschrijving",
-    "description": "Beschrijving beperking is foutief of niet volledig",
-    "error": "Bepe75",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Beperkingsfiche - Identificatie",
-    "parameter": "Beschrijving",
-    "description": "Andere",
-    "error": "Bepe80",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Beperkingsfiche - Identificatie",
-    "parameter": "Verplicht te beschrijven ruimte of materiaal",
-    "description": "Verkeerde verplicht te beschrijven ruimte of materiaal",
-    "error": "Bepe85-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 6.4.5 beschrijft de verplicht te beschrijven ruimtes en materialen.\n\nHet verplicht te beschrijven materiaal of ruimte werd niet correct gekozen.\nKies het correcte materiaal of ruimte dat beschreven wordt in de dropdown.",
-      "category": 4,
-      "explanation": "geen impact op veiligheid of de waarde van het pand"
-    }
-  },
-  {
-    "tab": "Beperkingsfiche - Identificatie",
-    "parameter": "Verplicht te beschrijven ruimte of materiaal",
-    "description": "Verkeerde verplicht te beschrijven ruimte of materiaal aangeduid.",
-    "error": "Bepe85-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Beperkingsfiche - Identificatie",
-    "parameter": "Verplicht te beschrijven ruimte of materiaal",
-    "description": "Verplicht te beschrijven ruimte of materiaal niet aangeduid.",
-    "error": "Bepe86-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 6.4.5 beschrijft de verplicht te beschrijven ruimtes en materialen.\n\nDit materiaal of ruimte werd niet ingegeven als een verplicht te beschrijven ruimte of materiaal. \nKies het materiaal of de ruimte dat beschreven wordt in de dropdown.",
-      "category": 4,
-      "explanation": "geen impact op veiligheid of de waarde van het pand"
-    }
-  },
-  {
-    "tab": "Beperkingsfiche - Identificatie",
-    "parameter": "Verplicht te beschrijven ruimte of materiaal",
-    "description": "Verplicht te beschrijven ruimte of materiaal niet aangeduid.",
-    "error": "Bepe86-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Beperkingsfiche - Identificatie",
-    "parameter": "Verplicht te beschrijven ruimte of materiaal",
-    "description": "Verplicht te beschrijven ruimte of materiaal - andere",
-    "error": "Bepe87-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Beperkingsfiche - Identificatie",
-    "parameter": "Beperkingstype",
-    "description": "Verkeerdelijk permanente beperking aangeduid bij hoogte",
-    "error": "Bepe90",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 5.6.1 beschrijft de aard van de onderzoeksbeperkingen. \n\nEen onderzoeksbeperking wegens hoogte is niet permanent van aard. \nKies voor volgende beperkingstype: Middellange termijn.",
-      "category": 4,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Beperkingsfiche - Identificatie",
-    "parameter": "Beperkingstype",
-    "description": "Beperkingstype foutief aangeduid",
-    "error": "Bepe90",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 4,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Beperkingsfiche - Identificatie",
-    "parameter": "Beperkingstype",
-    "description": "Andere",
-    "error": "Bepe95",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
     "tab": "Bijlagen - Bewijsdocumenten",
     "parameter": "Correctheid",
     "description": "Foutieve bewijsdocumenten geüpload",
@@ -5431,66 +5431,6 @@
   },
   {
     "tab": "Bijlagen - Fotoreportage",
-    "parameter": "Zorgvuldigheid en veiligheid",
-    "description": "De ADI behandelde het monsternamepunt niet meteen zorgvuldig na.",
-    "error": "Bijl100",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 5.9.2 beschrijft de richtlijnen die de asbestdeskundige dient te volgen voor de uitvoering van een zorgvuldige en veilige inspectie. \n\nOp volgende foto's in de fotoreportage zijn aan het monsternamepunt asbestverdachte resten zichtbaar: FOTO XXX\nDit staaft dat de foto genomen werd voor dat het monsternamepunt zorgvuldig werd nabehandeld. \nNeem de foto's van de monsternamepunten pas nadat het monsternamepunt gefixeerd werd én asbestverdachte resten afkomstig van de monstername verwijderd werden.",
-      "category": 2,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bijlagen - Fotoreportage",
-    "parameter": "Zorgvuldigheid en veiligheid",
-    "description": "De ADI behandelde het monsternamepunt niet meteen zorgvuldig na.",
-    "error": "Bijl100",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 2,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bijlagen - Fotoreportage",
-    "parameter": "Zorgvuldigheid en veiligheid",
-    "description": "Andere",
-    "error": "Bijl110",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bijlagen - Fotoreportage",
-    "parameter": "Fotoreportage - andere",
-    "description": "Fotoreportage - andere",
-    "error": "Bijl120",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bijlagen - Fotoreportage",
     "parameter": "Kwaliteit foto",
     "description": "Geen fotoreportage",
     "error": "Bijl16",
@@ -5644,6 +5584,471 @@
     "parameter": "Kwaliteit foto",
     "description": "Kwaliteit foto - andere",
     "error": "Bijl40",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bijlagen - Fotoreportage",
+    "parameter": "Zorgvuldigheid en veiligheid",
+    "description": "De ADI behandelde het monsternamepunt niet meteen zorgvuldig na.",
+    "error": "Bijl100",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.9.2 beschrijft de richtlijnen die de asbestdeskundige dient te volgen voor de uitvoering van een zorgvuldige en veilige inspectie. \n\nOp volgende foto's in de fotoreportage zijn aan het monsternamepunt asbestverdachte resten zichtbaar: FOTO XXX\nDit staaft dat de foto genomen werd voor dat het monsternamepunt zorgvuldig werd nabehandeld. \nNeem de foto's van de monsternamepunten pas nadat het monsternamepunt gefixeerd werd én asbestverdachte resten afkomstig van de monstername verwijderd werden.",
+      "category": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bijlagen - Fotoreportage",
+    "parameter": "Zorgvuldigheid en veiligheid",
+    "description": "De ADI behandelde het monsternamepunt niet meteen zorgvuldig na.",
+    "error": "Bijl100",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bijlagen - Fotoreportage",
+    "parameter": "Zorgvuldigheid en veiligheid",
+    "description": "Andere",
+    "error": "Bijl110",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bijlagen - Fotoreportage",
+    "parameter": "Fotoreportage - andere",
+    "description": "Fotoreportage - andere",
+    "error": "Bijl120",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Annotaties en leesbaarheid per fiche",
+    "description": "Monsternamepunt niet of niet correct aangeduid",
+    "error": "Bron19",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Annotaties en leesbaarheid per fiche",
+    "description": "Monstercode niet aangeduid bij monsternamepunt",
+    "error": "Bron22",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Annotaties en leesbaarheid per fiche",
+    "description": "Bij mengmonster monsternamepunten niet allemaal aangeduid",
+    "error": "Bron25",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Annotaties en leesbaarheid per fiche",
+    "description": "Toepassing of zone niet of niet correct aangeduid",
+    "error": "Bron29",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 6.3.5 beschrijft de plannen. \n\nDe toepassing of zone werd niet correct aangeduid op de constructieplannen of de plattegrond. \nAnnoteer elke toepassing of zone correct op de constructieplannen of de plattegrond.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Annotaties en leesbaarheid per fiche",
+    "description": "Toepassing of zone niet of niet correct aangeduid",
+    "error": "Bron29",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Annotaties en leesbaarheid per fiche",
+    "description": "Annotaties niet correct aangeduid",
+    "error": "Bron41",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Annotaties en leesbaarheid per fiche",
+    "description": "Andere",
+    "error": "Bron45",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van afvalfiche.",
+    "error": "Bron62-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nDe afvalstoffen werden verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer de afvalstoffen in een afvalfiche.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van afvalfiche.",
+    "error": "Bron62-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van beperkingsfiche.",
+    "error": "Bron63-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nHet materiaal of de ruimte werd verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer bovenstaande materiaal of ruimte in een beperkingsfiche.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van beperkingsfiche.",
+    "error": "Bron63-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van adviesfiche.",
+    "error": "Bron64-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 6.4.1.4 beschrijft de optionele adviesfiche. \n\nHet materiaal of de ruimte werd verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer bovenstaande materiaal of ruimte in een (optionele) adviesfiche.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van adviesfiche.",
+    "error": "Bron64-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van uitsluitingsfiche.",
+    "error": "Bron66-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.5 beschrijft de niet te inspecteren constructies. \n\nDe constructie of ruimte werd verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer bovenstaande constructie of ruimte in een uitsluitingsfiche.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van uitsluitingsfiche.",
+    "error": "Bron66-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van roerendgoedfiche.",
+    "error": "Bron67-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.4 beschrijft de roerende goederen.\n\nHet roerend goed werd verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer het roerend goed in een roerendgoedfiche, wanneer hiervoor een rechtsgeldige opdracht bestaat.  \nRapporteer het roerend goed in een optionele adviesfiche, wanneer hiervoor geen rechtsgeldige opdracht bestaat.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van roerendgoedfiche.",
+    "error": "Bron67-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van afdruipzonefiche.",
+    "error": "Bron68-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nDe afdruip- en afvloeizone werd verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer de afdruip- en afvloeizone in een afdruipzonefiche.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt in plaats van afdruipzonefiche.",
+    "error": "Bron68-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief bronfiche gebruikt - andere",
+    "error": "Bron69-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Bronfiche leidingisolatie niet gebundeld",
+    "error": "Bron70",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 6.4.1.2 beschrijft hoe thermische isolatie gerapporteert dient te worden. \n\nDe bochten en rechte stukken van de leidingisolatie werden in aparte bronfiches gerapporteerd. \nNeem de bochten en rechte stukken van de leidingisolatie op in één bronfiche.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Foutief aantal bronfiches zorgt voor onleesbaarheid",
+    "error": "Bron70",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Geen afzonderlijke bronfiche verschillende toepassingen samen",
+    "error": "Bron71",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 6.4.1.2 beschrijft het gebruik van bronfiches. \n\nVolgende verschillende inspecteerbare materialen werden in één bronfiche gerapporteerd: XXX en XXX.\nRapporteer deze verschillende inspecteerbare materialen in aparte bronfiches.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Geen afzonderlijke bronfiche pleisterwerk in verschillende constructies",
+    "error": "Bron71",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 6.4.1.2 beschrijft hoe asbesthoudend pleisterwerk gerapporteerd dient te worden. \nLeidraad versie 2.2 beschrijft hoe asbesthoudend pleisterwerk gerapporteerd dient te worden. \n\nHet pleisterwerk in volgende constructies werd in één bronfiche gerapporteerd: constructie XXXX en constructie XXXX.\nRapporteer het pleisterwerk in aparte bronfiches.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Geen afzonderlijke bronfiche toepassing aan verschillende primaire dragers",
+    "error": "Bron71",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 6.4.1.2 beschrijft het gebruik van bronfiches. \nGebruikershandleiding titel 3.5.4 beschrijft de primaire drager.  \n\nEenzelfde materiaal aangebracht op verschillende primaire dragers werd in één bronfiche gerapporteerd. De primaire dragers zijn: XXX en XXX\nRapporteer het materiaal in aparte bronfiches voor bovenstaande primaire dragers.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Geen aparte bronfiches opgesteld als dit wel verplicht is",
+    "error": "Bron71",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Andere",
+    "error": "Bron75",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -6225,411 +6630,6 @@
     }
   },
   {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Annotaties en leesbaarheid per fiche",
-    "description": "Monsternamepunt niet of niet correct aangeduid",
-    "error": "Bron19",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Annotaties en leesbaarheid per fiche",
-    "description": "Monstercode niet aangeduid bij monsternamepunt",
-    "error": "Bron22",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Annotaties en leesbaarheid per fiche",
-    "description": "Bij mengmonster monsternamepunten niet allemaal aangeduid",
-    "error": "Bron25",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Annotaties en leesbaarheid per fiche",
-    "description": "Toepassing of zone niet of niet correct aangeduid",
-    "error": "Bron29",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 6.3.5 beschrijft de plannen. \n\nDe toepassing of zone werd niet correct aangeduid op de constructieplannen of de plattegrond. \nAnnoteer elke toepassing of zone correct op de constructieplannen of de plattegrond.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Annotaties en leesbaarheid per fiche",
-    "description": "Toepassing of zone niet of niet correct aangeduid",
-    "error": "Bron29",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Annotaties en leesbaarheid per fiche",
-    "description": "Annotaties niet correct aangeduid",
-    "error": "Bron41",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Annotaties en leesbaarheid per fiche",
-    "description": "Andere",
-    "error": "Bron45",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van afvalfiche.",
-    "error": "Bron62-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nDe afvalstoffen werden verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer de afvalstoffen in een afvalfiche.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van afvalfiche.",
-    "error": "Bron62-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van beperkingsfiche.",
-    "error": "Bron63-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nHet materiaal of de ruimte werd verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer bovenstaande materiaal of ruimte in een beperkingsfiche.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van beperkingsfiche.",
-    "error": "Bron63-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van adviesfiche.",
-    "error": "Bron64-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 6.4.1.4 beschrijft de optionele adviesfiche. \n\nHet materiaal of de ruimte werd verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer bovenstaande materiaal of ruimte in een (optionele) adviesfiche.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van adviesfiche.",
-    "error": "Bron64-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van uitsluitingsfiche.",
-    "error": "Bron66-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.5 beschrijft de niet te inspecteren constructies. \n\nDe constructie of ruimte werd verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer bovenstaande constructie of ruimte in een uitsluitingsfiche.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van uitsluitingsfiche.",
-    "error": "Bron66-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van roerendgoedfiche.",
-    "error": "Bron67-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.4 beschrijft de roerende goederen.\n\nHet roerend goed werd verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer het roerend goed in een roerendgoedfiche, wanneer hiervoor een rechtsgeldige opdracht bestaat.  \nRapporteer het roerend goed in een optionele adviesfiche, wanneer hiervoor geen rechtsgeldige opdracht bestaat.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van roerendgoedfiche.",
-    "error": "Bron67-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van afdruipzonefiche.",
-    "error": "Bron68-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.2 beschrijft de afdruip- en afvloeizones. \n\nDe afdruip- en afvloeizone werd verkeerdelijk in een bronfiche gerapporteerd.\nRapporteer de afdruip- en afvloeizone in een afdruipzonefiche.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt in plaats van afdruipzonefiche.",
-    "error": "Bron68-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief bronfiche gebruikt - andere",
-    "error": "Bron69-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Bronfiche leidingisolatie niet gebundeld",
-    "error": "Bron70",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 6.4.1.2 beschrijft hoe thermische isolatie gerapporteert dient te worden. \n\nDe bochten en rechte stukken van de leidingisolatie werden in aparte bronfiches gerapporteerd. \nNeem de bochten en rechte stukken van de leidingisolatie op in één bronfiche.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Foutief aantal bronfiches zorgt voor onleesbaarheid",
-    "error": "Bron70",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Geen afzonderlijke bronfiche verschillende toepassingen samen",
-    "error": "Bron71",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 6.4.1.2 beschrijft het gebruik van bronfiches. \n\nVolgende verschillende inspecteerbare materialen werden in één bronfiche gerapporteerd: XXX en XXX.\nRapporteer deze verschillende inspecteerbare materialen in aparte bronfiches.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Geen afzonderlijke bronfiche pleisterwerk in verschillende constructies",
-    "error": "Bron71",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 6.4.1.2 beschrijft hoe asbesthoudend pleisterwerk gerapporteerd dient te worden. \nLeidraad versie 2.2 beschrijft hoe asbesthoudend pleisterwerk gerapporteerd dient te worden. \n\nHet pleisterwerk in volgende constructies werd in één bronfiche gerapporteerd: constructie XXXX en constructie XXXX.\nRapporteer het pleisterwerk in aparte bronfiches.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Geen afzonderlijke bronfiche toepassing aan verschillende primaire dragers",
-    "error": "Bron71",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 6.4.1.2 beschrijft het gebruik van bronfiches. \nGebruikershandleiding titel 3.5.4 beschrijft de primaire drager.  \n\nEenzelfde materiaal aangebracht op verschillende primaire dragers werd in één bronfiche gerapporteerd. De primaire dragers zijn: XXX en XXX\nRapporteer het materiaal in aparte bronfiches voor bovenstaande primaire dragers.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Geen aparte bronfiches opgesteld als dit wel verplicht is",
-    "error": "Bron71",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Andere",
-    "error": "Bron75",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
     "tab": "Bronfiche - Foto",
     "parameter": "Kwaliteit foto",
     "description": "2 x detailfoto",
@@ -6807,6 +6807,51 @@
       "clarification": "",
       "category": "",
       "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Identificatie",
+    "parameter": "Beschrijving",
+    "description": "Beschrijving fiche niet duidelijk\nmet impact: enkel een NC indien dit kan leiden tot het niet kunnen identificeren van de toepassing",
+    "error": "Bron90",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "Gebruikershandleiding titel 3.5.2 beschrijft de beschrijving van het materiaal. \n\nHet materiaal werd onvoldoende duidelijk beschreven.\nKies voor een duidelijke en ondubbelzinnige beschrijving van het materiaal. Neem de locatie van de toepassing of het materiaal op in de naam, wanneer dit nodig is voor de identificatie van het materiaal.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Identificatie",
+    "parameter": "Beschrijving",
+    "description": "Beschrijving toepassing of materiaal is foutief of niet volledig",
+    "error": "Bron90",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Bronfiche - Identificatie",
+    "parameter": "Beschrijving",
+    "description": "Foutief gebruik productnamen",
+    "error": "Bron95",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 0,
+      "explanation": " "
     }
   },
   {
@@ -7695,51 +7740,6 @@
     }
   },
   {
-    "tab": "Bronfiche - Identificatie",
-    "parameter": "Beschrijving",
-    "description": "Beschrijving fiche niet duidelijk\nmet impact: enkel een NC indien dit kan leiden tot het niet kunnen identificeren van de toepassing",
-    "error": "Bron90",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "Gebruikershandleiding titel 3.5.2 beschrijft de beschrijving van het materiaal. \n\nHet materiaal werd onvoldoende duidelijk beschreven.\nKies voor een duidelijke en ondubbelzinnige beschrijving van het materiaal. Neem de locatie van de toepassing of het materiaal op in de naam, wanneer dit nodig is voor de identificatie van het materiaal.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Identificatie",
-    "parameter": "Beschrijving",
-    "description": "Beschrijving toepassing of materiaal is foutief of niet volledig",
-    "error": "Bron90",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Bronfiche - Identificatie",
-    "parameter": "Beschrijving",
-    "description": "Foutief gebruik productnamen",
-    "error": "Bron95",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 0,
-      "explanation": " "
-    }
-  },
-  {
     "tab": "Bronfiche - Risicobeoordeling",
     "parameter": "Asbestsoort",
     "description": "Foutieve asbestsoort - geen invloed",
@@ -8006,6 +8006,261 @@
       "impact": "",
       "clarification": "",
       "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche ontbrekend",
+    "error": "Fiche20",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet gerapporteerd in een bronfiche: XXX\nRapporteer het inspecteerbaar materiaal in een bronfiche en voer bijkomende monstername uit tenzij het niet nemen van een monster gemotiveerd kan worden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche mogelijks ontbrekend",
+    "error": "Fiche20",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend inspecteerbaar materiaal gerapporteerd diende te worden in een bronfiche: XXX\nKijk dit materiaal na. Rapporteer het inspecteerbaar materiaal - indien nodig - in een bronfiche. Voer in dat geval ook bijkomende monstername uit tenzij dat het niet nemen van een monster gemotiveerd kan worden.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche niet gebruikt - eerste ontbrekende fiche",
+    "error": "Fiche20",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche niet gebruikt - tweede ontbrekende fiche",
+    "error": "Fiche25",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche niet gebruikt - derde ontbrekende fiche",
+    "error": "Fiche30",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche niet gebruikt - vierde ontbrekende fiche",
+    "error": "Fiche35",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche niet gebruikt - vijfde ontbrekende fiche",
+    "error": "Fiche40",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche niet gebruikt - zesde ontbrekende fiche",
+    "error": "Fiche45",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche niet gebruikt - zevende ontbrekende fiche",
+    "error": "Fiche50",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche niet gebruikt - achtste ontbrekende fiche",
+    "error": "Fiche55",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche niet gebruikt - negende ontbrekende fiche",
+    "error": "Fiche60",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Bronfiche niet gebruikt - tiende ontbrekende fiche",
+    "error": "Fiche65",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik bronfiche",
+    "description": "Andere",
+    "error": "Fiche79",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Afvalfiche ontbrekend",
+    "error": "Fiche90",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet gerapporteerd in een afvalfiche: XXX\nRapporteer de afvalstof in een afvalfiche.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Afvalfiche mogelijks ontbrekend",
+    "error": "Fiche90",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend afvalstof gerapporteerd diende te worden in een afvalfiche: XXX\nKijk de afvalstoffen na. Rapporteer de afvalstof - indien nodig - in een afvalfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Afvalfiche niet gebruikt",
+    "error": "Fiche90",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Afvalfiche niet gebruikt - tweede ontbrekende fiche",
+    "error": "Fiche95",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
       "explanation": ""
     }
   },
@@ -8281,51 +8536,6 @@
   },
   {
     "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche ontbrekend",
-    "error": "Fiche20",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet gerapporteerd in een bronfiche: XXX\nRapporteer het inspecteerbaar materiaal in een bronfiche en voer bijkomende monstername uit tenzij het niet nemen van een monster gemotiveerd kan worden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche mogelijks ontbrekend",
-    "error": "Fiche20",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Nee",
-      "impact": "Nee",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend inspecteerbaar materiaal gerapporteerd diende te worden in een bronfiche: XXX\nKijk dit materiaal na. Rapporteer het inspecteerbaar materiaal - indien nodig - in een bronfiche. Voer in dat geval ook bijkomende monstername uit tenzij dat het niet nemen van een monster gemotiveerd kan worden.",
-      "category": 0,
-      "explanation": "Niet zeker."
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - eerste ontbrekende fiche",
-    "error": "Fiche20",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
     "parameter": "Gebruik beperkingsfiche",
     "description": "Beperkingsfiche niet gebruikt - zevende ontbrekende fiche",
     "error": "Fiche200",
@@ -8396,21 +8606,6 @@
       "impact": "",
       "clarification": "",
       "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - tweede ontbrekende fiche",
-    "error": "Fiche25",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
       "explanation": ""
     }
   },
@@ -8536,21 +8731,6 @@
   },
   {
     "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - derde ontbrekende fiche",
-    "error": "Fiche30",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
     "parameter": "Gebruik optionele adviesfiche",
     "description": "Geen optioneel gebruik adviesfiche - negende fiche",
     "error": "Fiche300-2",
@@ -8614,21 +8794,6 @@
     "parameter": "Gebruik uitsluitingsfiche",
     "description": "Uitsluitingsfiche niet gebruikt - tweede ontbrekende fiche",
     "error": "Fiche345",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - vierde ontbrekende fiche",
-    "error": "Fiche35",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -8761,21 +8926,6 @@
   },
   {
     "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - vijfde ontbrekende fiche",
-    "error": "Fiche40",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
     "parameter": "Gebruik uitsluitingsfiche",
     "description": "Andere",
     "error": "Fiche409",
@@ -8854,21 +9004,6 @@
     "parameter": "Gebruik roerendgoedfiche",
     "description": "Roerendgoedfiche niet gebruikt - vijfde ontbrekende fiche",
     "error": "Fiche445",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - zesde ontbrekende fiche",
-    "error": "Fiche45",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -8966,21 +9101,6 @@
       "impact": "",
       "clarification": "",
       "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - zevende ontbrekende fiche",
-    "error": "Fiche50",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
       "explanation": ""
     }
   },
@@ -9136,21 +9256,6 @@
   },
   {
     "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - achtste ontbrekende fiche",
-    "error": "Fiche55",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
     "parameter": "Gebruik afdruipzonefiche",
     "description": "Afdruipzonefiche niet gebruikt - negende ontbrekende fiche",
     "error": "Fiche550",
@@ -9196,39 +9301,9 @@
   },
   {
     "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - negende ontbrekende fiche",
-    "error": "Fiche60",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
     "parameter": "Gebruik verplichte adviesfiche",
     "description": "Andere",
     "error": "Fiche629-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Bronfiche niet gebruikt - tiende ontbrekende fiche",
-    "error": "Fiche65",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -9390,70 +9465,10 @@
     }
   },
   {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik bronfiche",
-    "description": "Andere",
-    "error": "Fiche79",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche ontbrekend",
-    "error": "Fiche90",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet gerapporteerd in een afvalfiche: XXX\nRapporteer de afvalstof in een afvalfiche.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche mogelijks ontbrekend",
-    "error": "Fiche90",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Nee",
-      "impact": "Nee",
-      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend afvalstof gerapporteerd diende te worden in een afvalfiche: XXX\nKijk de afvalstoffen na. Rapporteer de afvalstof - indien nodig - in een afvalfiche.",
-      "category": 0,
-      "explanation": "Niet zeker."
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche niet gebruikt",
-    "error": "Fiche90",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche niet gebruikt - tweede ontbrekende fiche",
-    "error": "Fiche95",
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - planning",
+    "description": "Planning plaatsbezoek niet of niet correct gemeld (datum, startuur en naam ADI)",
+    "error": "Terr10",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -9467,8 +9482,68 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Vooronderzoek/voorbereiding - planning",
-    "description": "Planning plaatsbezoek niet of niet correct gemeld (datum, startuur en naam ADI)",
-    "error": "Terr10",
+    "description": "Andere",
+    "error": "Terr11",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
+    "description": "Geen opdrachtformulier",
+    "error": "Terr15",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 3.1.1 beschrijft de opdrachtovereenkomst. \n\nHet opdrachtformulier was niet ter beschikking tijdens de inspectie. \nZorg ervoor dat het ondertekende opdrachtformulier steeds ter beschikking is tijdens de fysieke rondgang. Dit kan digitaal (al dan niet opgeladen in de databank) of op papier.",
+      "category": 0,
+      "explanation": " "
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
+    "description": "Geen opdrachtformulier ter plaatse",
+    "error": "Terr15",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 0,
+      "explanation": " "
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
+    "description": "Geen rechtsgeldig mandaat",
+    "error": "Terr16",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 3.1.1 beschrijft de opdrachtovereenkomst. \n\nHet opdrachtformulier was niet ondertekend door beide partijen voor aanvang van de inspectie. \nZorg er steeds voor dat het opdrachtformulier door beide partijen ondertekend is voor aanvang van de fysieke rondgang.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
+    "description": "Opdrachtformulier wijkt af van wettelijke bepalingen: geen rechtsgeldig mandaat voor opstellen inventaris",
+    "error": "Terr16",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -9476,6 +9551,381 @@
       "impact": "",
       "clarification": "",
       "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
+    "description": "Opdrachtformulier opmaak inventaris wijkt af van wettelijke bepalingen",
+    "error": "Terr17",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
+    "description": "Aard opdracht in opdrachtformulier wijkt af van door ADI uitgevoerde opdracht",
+    "error": "Terr19",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
+    "description": "Opdrachtformulier verkeerd geïnterpreteerd",
+    "error": "Terr20",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
+    "description": "Opdrachtformulier niet kwaliteitsvol ingevuld",
+    "error": "Terr21",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 4,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
+    "description": "Andere",
+    "error": "Terr24",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - bewijsdocumenten",
+    "description": "Relevante bewijsdocumenten niet bij de hand",
+    "error": "Terr25",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - vooronderzoek",
+    "description": "Geen of onvolledig vooronderzoek uitgevoerd",
+    "error": "Terr26",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - vooronderzoek",
+    "description": "Beschikbare plannen niet opgeladen of niet gebruikt",
+    "error": "Terr27",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 0,
+      "explanation": " "
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - vooronderzoek",
+    "description": "Andere",
+    "error": "Terr28",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - documenten andere",
+    "description": "Geen verzekeringspolis beroepsaansprakelijkheid",
+    "error": "Terr29",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 0,
+      "explanation": " "
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - bewijsdocumenten",
+    "description": "Bewijsdocumenten verkeerd geïnterpreteerd",
+    "error": "Terr30",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - bewijsdocumenten",
+    "description": "Bewijsdocumenten niet getoetst aan realiteit",
+    "error": "Terr35",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - bewijsdocumenten",
+    "description": "Bewijsdocumenten inhoudelijk foutief",
+    "error": "Terr40",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 1,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - bewijsdocumenten",
+    "description": "Andere",
+    "error": "Terr44",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Vooronderzoek/voorbereiding - documenten andere",
+    "description": "Andere",
+    "error": "Terr45",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Inspectiegebied - volledigheid",
+    "description": "Inspectiegebied niet volledig onderzocht",
+    "error": "Terr55",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 2.1 beschrijft het standaardonderzoek.\n\nTijdens de fysieke rondgang werd volgende ruimte of materiaal niet onderzocht, hoewel dit inspecteerbaar was: XXX\nInspecteer steeds alle inspecteerbare materialen en ruimtes visueel en auditief, tenzij een geldige onderzoeksbeperking dit verhindert.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Inspectiegebied - volledigheid",
+    "description": "Inspectiegebied niet volledig onderzocht",
+    "error": "Terr55",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Onderzoeksmethode - werkwijze plaatsbezoek",
+    "description": "Niet efficiënt werken",
+    "error": "Terr70",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 0,
+      "explanation": " "
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Inspectiegebied - volledigheid",
+    "description": "Andere",
+    "error": "Terr74",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Inspectiegebied - inspectiefiches",
+    "description": "Onterechte beperkingsfiche (korte termijn)",
+    "error": "Terr75",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.6 beschrijft de onderzoeksbeperkingen. \n\nOnderzoeksbeperkingen van korte termijn dienen (op voorhand) besproken te worden met de opdrachtgever, zodat deze verholpen kunnen worden. \nEr werd een onderzoeksbeperking van korte termijn opgenomen voor volgende situatie, zonder hierover in gesprek te gaan met de opdrachtgever: XXX\nIndien de kortetermijnonderzoeksbeperking niet verholpen kan worden voor of op het moment van de fysieke rondgang, dan dient er nog een bijkomende inspectie ingepland te worden om de niet geïnspecteerde ruimtes en/of materialen alsnog te inspecteren.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Inspectiegebied - inspectiefiches",
+    "description": "Inspectiefiches niet correct toegepast",
+    "error": "Terr75",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Inspectiegebied - inspectiefiches",
+    "description": "Optionele inspectiefiches niet toegepast",
+    "error": "Terr85",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 0,
+      "explanation": " "
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Inspectiegebied - inspectiefiches",
+    "description": "Andere",
+    "error": "Terr89",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Inspectiegebied - inspectiegebied - andere",
+    "description": "Andere",
+    "error": "Terr90",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Onderzoeksmethode - werkwijze plaatsbezoek",
+    "description": "Andere",
+    "error": "Terr95",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
       "explanation": ""
     }
   },
@@ -9581,21 +10031,6 @@
       "impact": "",
       "clarification": "",
       "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - planning",
-    "description": "Andere",
-    "error": "Terr11",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
       "explanation": ""
     }
   },
@@ -10021,36 +10456,6 @@
   },
   {
     "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
-    "description": "Geen opdrachtformulier",
-    "error": "Terr15",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 3.1.1 beschrijft de opdrachtovereenkomst. \n\nHet opdrachtformulier was niet ter beschikking tijdens de inspectie. \nZorg ervoor dat het ondertekende opdrachtformulier steeds ter beschikking is tijdens de fysieke rondgang. Dit kan digitaal (al dan niet opgeladen in de databank) of op papier.",
-      "category": 0,
-      "explanation": " "
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
-    "description": "Geen opdrachtformulier ter plaatse",
-    "error": "Terr15",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 0,
-      "explanation": " "
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
     "parameter": "Communicatie - communicatie met opdrachtgever en/of gebruiker",
     "description": "Onvoldoende of foutief reageren op vragen van opdrachtgever/gebruiker",
     "error": "Terr150",
@@ -10069,36 +10474,6 @@
     "parameter": "Communicatie - communicatie met opdrachtgever en/of gebruiker",
     "description": "Onvoldoende of foutieve terugkoppeling over het belang en de onderdelen van de opdrachtovereenkomst",
     "error": "Terr155-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
-    "description": "Geen rechtsgeldig mandaat",
-    "error": "Terr16",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 3.1.1 beschrijft de opdrachtovereenkomst. \n\nHet opdrachtformulier was niet ondertekend door beide partijen voor aanvang van de inspectie. \nZorg er steeds voor dat het opdrachtformulier door beide partijen ondertekend is voor aanvang van de fysieke rondgang.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
-    "description": "Opdrachtformulier wijkt af van wettelijke bepalingen: geen rechtsgeldig mandaat voor opstellen inventaris",
-    "error": "Terr16",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -10141,39 +10516,9 @@
   },
   {
     "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
-    "description": "Opdrachtformulier opmaak inventaris wijkt af van wettelijke bepalingen",
-    "error": "Terr17",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
     "parameter": "Communicatie - communicatie met opdrachtgever en/of gebruiker",
     "description": "Onvoldoende of foutief informeren over onderzoeksmethode",
     "error": "Terr180",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
-    "description": "Aard opdracht in opdrachtformulier wijkt af van door ADI uitgevoerde opdracht",
-    "error": "Terr19",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -10201,39 +10546,9 @@
   },
   {
     "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
-    "description": "Opdrachtformulier verkeerd geïnterpreteerd",
-    "error": "Terr20",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
     "parameter": "Communicatie - communicatie met opdrachtgever en/of gebruiker",
     "description": "Niet, onvoldoende of foutief informeren over toepassingsgebied asbestinventarisattest",
     "error": "Terr200",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 4,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
-    "description": "Opdrachtformulier niet kwaliteitsvol ingevuld",
-    "error": "Terr21",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -10321,21 +10636,6 @@
   },
   {
     "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - opdrachtformulier",
-    "description": "Andere",
-    "error": "Terr24",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
     "parameter": "Monstername - uitvoerder",
     "description": "Monstername gebeurt niet door een persoonsgecertificeerde ADI",
     "error": "Terr245",
@@ -10366,39 +10666,9 @@
   },
   {
     "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - bewijsdocumenten",
-    "description": "Relevante bewijsdocumenten niet bij de hand",
-    "error": "Terr25",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
     "parameter": "Monstername - zorgvuldigheid en veiligheid",
     "description": "Geen correcte inschatting gebruik PBM's",
     "error": "Terr250",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - vooronderzoek",
-    "description": "Geen of onvolledig vooronderzoek uitgevoerd",
-    "error": "Terr26",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -10437,21 +10707,6 @@
       "clarification": "",
       "category": 3,
       "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - vooronderzoek",
-    "description": "Beschikbare plannen niet opgeladen of niet gebruikt",
-    "error": "Terr27",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 0,
-      "explanation": " "
     }
   },
   {
@@ -10516,21 +10771,6 @@
   },
   {
     "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - vooronderzoek",
-    "description": "Andere",
-    "error": "Terr28",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
     "parameter": "Monstername - zorgvuldigheid en veiligheid",
     "description": "Monsternamepunt verkeerd benaderd",
     "error": "Terr280",
@@ -10576,21 +10816,6 @@
   },
   {
     "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - documenten andere",
-    "description": "Geen verzekeringspolis beroepsaansprakelijkheid",
-    "error": "Terr29",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 0,
-      "explanation": " "
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
     "parameter": "Monstername - zorgvuldigheid en veiligheid",
     "description": "Vuil werkmateriaal / afval onveilig",
     "error": "Terr290",
@@ -10616,21 +10841,6 @@
       "impact": "",
       "clarification": "",
       "category": 2,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - bewijsdocumenten",
-    "description": "Bewijsdocumenten verkeerd geïnterpreteerd",
-    "error": "Terr30",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
       "explanation": ""
     }
   },
@@ -10789,66 +10999,6 @@
     "parameter": "Monstername - monstername - andere",
     "description": "Andere",
     "error": "Terr325",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - bewijsdocumenten",
-    "description": "Bewijsdocumenten niet getoetst aan realiteit",
-    "error": "Terr35",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - bewijsdocumenten",
-    "description": "Bewijsdocumenten inhoudelijk foutief",
-    "error": "Terr40",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 1,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - bewijsdocumenten",
-    "description": "Andere",
-    "error": "Terr44",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Vooronderzoek/voorbereiding - documenten andere",
-    "description": "Andere",
-    "error": "Terr45",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -11071,36 +11221,6 @@
   },
   {
     "tab": "Kwaliteit - Controles",
-    "parameter": "Inspectiegebied - volledigheid",
-    "description": "Inspectiegebied niet volledig onderzocht",
-    "error": "Terr55",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 2.1 beschrijft het standaardonderzoek.\n\nTijdens de fysieke rondgang werd volgende ruimte of materiaal niet onderzocht, hoewel dit inspecteerbaar was: XXX\nInspecteer steeds alle inspecteerbare materialen en ruimtes visueel en auditief, tenzij een geldige onderzoeksbeperking dit verhindert.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Inspectiegebied - volledigheid",
-    "description": "Inspectiegebied niet volledig onderzocht",
-    "error": "Terr55",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekende roerende goederen",
     "description": "Niet alle roerende goederen werden beschreven - eerste ontbrekende roerend goed",
     "error": "Terr550",
@@ -11269,126 +11389,6 @@
     "parameter": "Materialen - volledigheid - ontbrekende afdruipzone",
     "description": "Andere",
     "error": "Terr565",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Onderzoeksmethode - werkwijze plaatsbezoek",
-    "description": "Niet efficiënt werken",
-    "error": "Terr70",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 0,
-      "explanation": " "
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Inspectiegebied - volledigheid",
-    "description": "Andere",
-    "error": "Terr74",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Inspectiegebied - inspectiefiches",
-    "description": "Onterechte beperkingsfiche (korte termijn)",
-    "error": "Terr75",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.6 beschrijft de onderzoeksbeperkingen. \n\nOnderzoeksbeperkingen van korte termijn dienen (op voorhand) besproken te worden met de opdrachtgever, zodat deze verholpen kunnen worden. \nEr werd een onderzoeksbeperking van korte termijn opgenomen voor volgende situatie, zonder hierover in gesprek te gaan met de opdrachtgever: XXX\nIndien de kortetermijnonderzoeksbeperking niet verholpen kan worden voor of op het moment van de fysieke rondgang, dan dient er nog een bijkomende inspectie ingepland te worden om de niet geïnspecteerde ruimtes en/of materialen alsnog te inspecteren.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Inspectiegebied - inspectiefiches",
-    "description": "Inspectiefiches niet correct toegepast",
-    "error": "Terr75",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Inspectiegebied - inspectiefiches",
-    "description": "Optionele inspectiefiches niet toegepast",
-    "error": "Terr85",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 0,
-      "explanation": " "
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Inspectiegebied - inspectiefiches",
-    "description": "Andere",
-    "error": "Terr89",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Inspectiegebied - inspectiegebied - andere",
-    "description": "Andere",
-    "error": "Terr90",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Onderzoeksmethode - werkwijze plaatsbezoek",
-    "description": "Andere",
-    "error": "Terr95",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -12107,98 +12107,38 @@
   {
     "tab": "Lokalisatie - Inspectiegebied",
     "parameter": "Aantal inspectiegebieden",
+    "description": "Meerdere inspectiegebieden opgenomen in één attest",
+    "error": "Loka5",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "Aantal inspectiegebieden",
+    "description": "Inspectiegebied opgesplitst in meerdere attesten hoewel dit niet gevraagd werd door de opdrachtgever",
+    "error": "Loka6",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "Aantal inspectiegebieden",
     "description": "Andere",
     "error": "Loka10",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Foutief 'volledig gebouw' aangeduid",
-    "error": "Loka100",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Foutief 'gedeeltelijk gebouw' aangeduid",
-    "error": "Loka105",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Constructie op constructie getekend",
-    "error": "Loka110",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 6.3.3 beschrijft de afwijkingen van de realiteit.\n\nEr werd een constructie bovenop een bestaande constructie ingetekend op de GIS-kaart. \nVerwijder de ingetekende constructie, die met een bestaande constructie overlapt. Selecteer de bestaande constructie en beschrijf indien van toepassing het geïnspecteerde gebouwdeel (gedeeltelijk gebouw).",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Constructies op GIS-kaart foutief aangeduid",
-    "error": "Loka110",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Constructies niet éénduidig benoemd",
-    "error": "Loka112",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Andere",
-    "error": "Loka115",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -12214,96 +12154,6 @@
     "parameter": "Inspectielocatie",
     "description": "Inspectielocatie foutief ingegeven",
     "error": "Loka14",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Toegankelijke constructie niet aangeduid",
-    "error": "Loka160",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 6.3.3 beschrijft de afwijkingen van de realiteit.\n\nVolgende toegankelijke constructie werd niet op de GIS-kaart ingetekend: XXX\nTeken de toegankelijke constructie in op de GIS-kaart",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Niet alle toegankelijke constructies van het inspectiegebied zijn aangeduid op de GIS-kaart.",
-    "error": "Loka160",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Niet-toegankelijke asbestverdachte constructie niet aangeduid",
-    "error": "Loka161-2",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 6.3.3 beschrijft de afwijkingen van de realiteit.\n\nVolgende asbestverdachte niet-toegankelijke constructie werd niet op de GIS-kaart ingetekend: XXX\nTeken de asbestverdachte niet-toegankelijke constructie in op de GIS-kaart",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Niet alle asbestverdachte niet-toegankelijke constructies van het inspectiegebied zijn aangeduid op de GIS-kaart.",
-    "error": "Loka161-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Gearceerde zone op GIS-kaart niet aangeduid",
-    "error": "Loka162-2",
-    "modifyClarification": false,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 6.3.2 beschrijft de constructiekaart (GIS-kaart). \n\nNiet alle op de GIS-kaart ingetekende toegankelijke en/of niet-toegankelijke constructies werden aangeduid. De gearceerde zone(s) op de GIS-kaart verwijzen naar een verharding, ingezonken garage-inrit, afdak, carport, silo of andere constructie. \nSelecteer de gearceerde constructie op de GIS-kaart.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "GIS-kaart",
-    "description": "Niet alle op de GIS-kaart ingetekende niet-toegankelijke constructies van het inspectiegebied zijn aangeduid op de GIS-kaart.",
-    "error": "Loka162-2",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -12361,21 +12211,6 @@
   },
   {
     "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "Aantal inspectiegebieden",
-    "description": "Meerdere inspectiegebieden opgenomen in één attest",
-    "error": "Loka5",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
     "parameter": "Inspectielocatie",
     "description": "Extra adresdetails bij adres niet of foutief gebruikt",
     "error": "Loka50-2",
@@ -12394,21 +12229,6 @@
     "parameter": "Inspectielocatie",
     "description": "Extra adresdetails bij adres niet of foutief gebruikt",
     "error": "Loka50-2",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Lokalisatie - Inspectiegebied",
-    "parameter": "Aantal inspectiegebieden",
-    "description": "Inspectiegebied opgesplitst in meerdere attesten hoewel dit niet gevraagd werd door de opdrachtgever",
-    "error": "Loka6",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -12675,6 +12495,186 @@
     }
   },
   {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Foutief 'volledig gebouw' aangeduid",
+    "error": "Loka100",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Foutief 'gedeeltelijk gebouw' aangeduid",
+    "error": "Loka105",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Constructie op constructie getekend",
+    "error": "Loka110",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 6.3.3 beschrijft de afwijkingen van de realiteit.\n\nEr werd een constructie bovenop een bestaande constructie ingetekend op de GIS-kaart. \nVerwijder de ingetekende constructie, die met een bestaande constructie overlapt. Selecteer de bestaande constructie en beschrijf indien van toepassing het geïnspecteerde gebouwdeel (gedeeltelijk gebouw).",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Constructies op GIS-kaart foutief aangeduid",
+    "error": "Loka110",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Constructies niet éénduidig benoemd",
+    "error": "Loka112",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Andere",
+    "error": "Loka115",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Toegankelijke constructie niet aangeduid",
+    "error": "Loka160",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 6.3.3 beschrijft de afwijkingen van de realiteit.\n\nVolgende toegankelijke constructie werd niet op de GIS-kaart ingetekend: XXX\nTeken de toegankelijke constructie in op de GIS-kaart",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Niet alle toegankelijke constructies van het inspectiegebied zijn aangeduid op de GIS-kaart.",
+    "error": "Loka160",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Niet-toegankelijke asbestverdachte constructie niet aangeduid",
+    "error": "Loka161-2",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 6.3.3 beschrijft de afwijkingen van de realiteit.\n\nVolgende asbestverdachte niet-toegankelijke constructie werd niet op de GIS-kaart ingetekend: XXX\nTeken de asbestverdachte niet-toegankelijke constructie in op de GIS-kaart",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Niet alle asbestverdachte niet-toegankelijke constructies van het inspectiegebied zijn aangeduid op de GIS-kaart.",
+    "error": "Loka161-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Gearceerde zone op GIS-kaart niet aangeduid",
+    "error": "Loka162-2",
+    "modifyClarification": false,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 6.3.2 beschrijft de constructiekaart (GIS-kaart). \n\nNiet alle op de GIS-kaart ingetekende toegankelijke en/of niet-toegankelijke constructies werden aangeduid. De gearceerde zone(s) op de GIS-kaart verwijzen naar een verharding, ingezonken garage-inrit, afdak, carport, silo of andere constructie. \nSelecteer de gearceerde constructie op de GIS-kaart.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Lokalisatie - Inspectiegebied",
+    "parameter": "GIS-kaart",
+    "description": "Niet alle op de GIS-kaart ingetekende niet-toegankelijke constructies van het inspectiegebied zijn aangeduid op de GIS-kaart.",
+    "error": "Loka162-2",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
     "tab": "Lokalisatie - Plattegrond",
     "parameter": "Gebruik plattegrond - algemeen",
     "description": "Zoomniveau is niet aangepast",
@@ -12799,6 +12799,21 @@
     "parameter": "Annotaties en leesbaarheid per fiche",
     "description": "Andere",
     "error": "Roer45",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Roerendgoedfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Andere",
+    "error": "Roer90",
     "modifyClarification": true,
     "greenDescription": false,
     "defaults": {
@@ -13001,21 +13016,6 @@
       "impact": "",
       "clarification": "",
       "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Roerendgoedfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Andere",
-    "error": "Roer90",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
       "explanation": ""
     }
   },
@@ -14161,6 +14161,66 @@
   },
   {
     "tab": "Uitsluitingsfiche - Algemeen",
+    "parameter": "Annotaties en leesbaarheid per fiche",
+    "description": "Uitgesloten constructie(deel) niet of niet correct aangeduid",
+    "error": "Uits26",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Uitsluitingsfiche - Algemeen",
+    "parameter": "Annotaties en leesbaarheid per fiche",
+    "description": "Annotaties niet correct aangeduid",
+    "error": "Uits31",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Uitsluitingsfiche - Algemeen",
+    "parameter": "Annotaties en leesbaarheid per fiche",
+    "description": "Andere",
+    "error": "Uits35",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Uitsluitingsfiche - Algemeen",
+    "parameter": "Gebruik fiche",
+    "description": "Andere",
+    "error": "Uits60",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Uitsluitingsfiche - Algemeen",
     "parameter": "Gebruik fiche",
     "description": "Foutief uitsluitingsfiche gebruikt in plaats van bronfiche.",
     "error": "Uits140-2",
@@ -14351,66 +14411,6 @@
       "impact": "",
       "clarification": "",
       "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Uitsluitingsfiche - Algemeen",
-    "parameter": "Annotaties en leesbaarheid per fiche",
-    "description": "Uitgesloten constructie(deel) niet of niet correct aangeduid",
-    "error": "Uits26",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Uitsluitingsfiche - Algemeen",
-    "parameter": "Annotaties en leesbaarheid per fiche",
-    "description": "Annotaties niet correct aangeduid",
-    "error": "Uits31",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Uitsluitingsfiche - Algemeen",
-    "parameter": "Annotaties en leesbaarheid per fiche",
-    "description": "Andere",
-    "error": "Uits35",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Uitsluitingsfiche - Algemeen",
-    "parameter": "Gebruik fiche",
-    "description": "Andere",
-    "error": "Uits60",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": "",
       "explanation": ""
     }
   },
