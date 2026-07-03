@@ -11567,7 +11567,7 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekende onderzoeksbeperking",
-    "description": "Beperking gemist",
+    "description": "Eerste beperking gemist",
     "error": "Terr540",
     "modifyClarification": true,
     "greenDescription": true,
@@ -11582,29 +11582,14 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekende onderzoeksbeperking",
-    "description": "Niet alle onderzoeksbeperkingen werden beschreven - eerste ontbrekende onderzoeksbeperking",
-    "error": "Terr540",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekende onderzoeksbeperking",
-    "description": "Niet alle onderzoeksbeperkingen werden beschreven - tweede ontbrekende onderzoeksbeperking",
+    "description": "Tweede beperking gemist",
     "error": "Terr541",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet benoemd tijdens de fysieke rondgang: XXX\nRapporteer steeds alle situaties die de inspectie van bepaalde ruimtes of materialen verhinderen..",
       "category": 3,
       "explanation": ""
     }
@@ -11612,14 +11597,14 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekende onderzoeksbeperking",
-    "description": "Niet alle onderzoeksbeperkingen werden beschreven - derde ontbrekende onderzoeksbeperking",
+    "description": "Derde beperking gemist",
     "error": "Terr542",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet benoemd tijdens de fysieke rondgang: XXX\nRapporteer steeds alle situaties die de inspectie van bepaalde ruimtes of materialen verhinderen..",
       "category": 3,
       "explanation": ""
     }
@@ -11627,14 +11612,14 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekende onderzoeksbeperking",
-    "description": "Niet alle onderzoeksbeperkingen werden beschreven - vierde ontbrekende onderzoeksbeperking",
+    "description": "Vierde beperking gemist",
     "error": "Terr543",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet benoemd tijdens de fysieke rondgang: XXX\nRapporteer steeds alle situaties die de inspectie van bepaalde ruimtes of materialen verhinderen..",
       "category": 3,
       "explanation": ""
     }
@@ -11642,14 +11627,14 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekende onderzoeksbeperking",
-    "description": "Niet alle onderzoeksbeperkingen werden beschreven - vijfde ontbrekende onderzoeksbeperking",
+    "description": "Vijfde beperking gemist",
     "error": "Terr544",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.3 beschrijft de niet vast te stellen ruimtes en materialen die de asbestdeskundige in een beperkingsfiche dient op te nemen. \n\nVolgende onderzoeksbeperking werd niet benoemd tijdens de fysieke rondgang: XXX\nRapporteer steeds alle situaties die de inspectie van bepaalde ruimtes of materialen verhinderen..",
       "category": 3,
       "explanation": ""
     }
