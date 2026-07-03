@@ -8492,8 +8492,8 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "Zevende afvalfiche mogelijks ontbrekend",
-    "error": "Fiche120",
+    "description": "Zesde afvalfiche mogelijks ontbrekend",
+    "error": "Fiche115",
     "modifyClarification": true,
     "greenDescription": true,
     "defaults": {
