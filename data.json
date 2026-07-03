@@ -731,7 +731,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -1421,7 +1421,7 @@
       "impact": "Ja",
       "clarification": "IP2 titel 6.4.1.5 beschrijft de afdruipzonefiche. \n\nAfdruip en afvloei die voorkomen aan verschillende constructies werden foutief beschreven in één afdruip- of afvloeifiche. \nRapporteeer de afdruip en/of afvloei per constructie.",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -1511,7 +1511,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -1736,7 +1736,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -2516,7 +2516,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -2756,7 +2756,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -3476,7 +3476,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -3506,7 +3506,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -5725,7 +5725,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -5785,7 +5785,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -5875,7 +5875,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -5935,7 +5935,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -5965,7 +5965,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6010,7 +6010,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6130,7 +6130,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6146,7 +6146,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -6160,7 +6160,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6176,7 +6176,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -6220,7 +6220,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6325,7 +6325,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6625,7 +6625,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6760,7 +6760,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6805,7 +6805,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6820,7 +6820,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6895,7 +6895,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6925,7 +6925,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -6970,7 +6970,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7030,7 +7030,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7120,7 +7120,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7150,7 +7150,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7345,7 +7345,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7390,7 +7390,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7465,7 +7465,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7525,7 +7525,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7570,7 +7570,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7615,7 +7615,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7631,7 +7631,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -7690,7 +7690,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7736,7 +7736,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -7795,7 +7795,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7825,7 +7825,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7885,7 +7885,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7945,7 +7945,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -7976,7 +7976,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -8005,7 +8005,7 @@
       "nc": "",
       "impact": "",
       "clarification": "",
-      "category": 10,
+      "category": "",
       "explanation": ""
     }
   },
@@ -8426,7 +8426,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -8441,7 +8441,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -8456,7 +8456,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -8471,7 +8471,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -8486,7 +8486,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -8501,7 +8501,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -8516,7 +8516,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -8531,7 +8531,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -8561,7 +8561,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -8576,7 +8576,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -10031,7 +10031,7 @@
       "impact": "Ja",
       "clarification": "IP2 titel 3.1.1 beschrijft de opdrachtovereenkomst. \n\nHet opdrachtformulier was niet ter beschikking tijdens de inspectie. \nZorg ervoor dat het ondertekende opdrachtformulier steeds ter beschikking is tijdens de fysieke rondgang. Dit kan digitaal (al dan niet opgeladen in de databank) of op papier.",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -10046,7 +10046,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -10301,7 +10301,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -10451,7 +10451,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -10586,7 +10586,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -11291,7 +11291,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -11351,7 +11351,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -13241,7 +13241,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -13406,7 +13406,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -13826,7 +13826,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -13856,7 +13856,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
@@ -14126,7 +14126,7 @@
       "impact": "",
       "clarification": "",
       "category": 0,
-      "explanation": ""
+      "explanation": " "
     }
   },
   {
