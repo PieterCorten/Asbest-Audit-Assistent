@@ -8327,7 +8327,7 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche ontbrekend",
+    "description": "Eerste afvalfiche ontbrekend",
     "error": "Fiche90",
     "modifyClarification": true,
     "greenDescription": true,
@@ -8342,7 +8342,7 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche mogelijks ontbrekend",
+    "description": "Eerste afvalfiche mogelijks ontbrekend",
     "error": "Fiche90",
     "modifyClarification": true,
     "greenDescription": true,
@@ -8357,29 +8357,14 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche niet gebruikt",
-    "error": "Fiche90",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Fichebibliotheek",
-    "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche niet gebruikt - tweede ontbrekende fiche",
+    "description": "Tweede afvalfiche ontbrekend",
     "error": "Fiche95",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet gerapporteerd in een afvalfiche: XXX\nRapporteer de afvalstof in een afvalfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8387,14 +8372,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche niet gebruikt - derde ontbrekende fiche",
+    "description": "Tweede afvalfiche mogelijks ontbrekend",
+    "error": "Fiche95",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend afvalstof gerapporteerd diende te worden in een afvalfiche: XXX\nKijk de afvalstoffen na. Rapporteer de afvalstof - indien nodig - in een afvalfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Derde afvalfiche ontbrekend",
     "error": "Fiche100",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet gerapporteerd in een afvalfiche: XXX\nRapporteer de afvalstof in een afvalfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8402,14 +8402,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche niet gebruikt - vierde ontbrekende fiche",
+    "description": "Derde afvalfiche mogelijks ontbrekend",
+    "error": "Fiche100",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend afvalstof gerapporteerd diende te worden in een afvalfiche: XXX\nKijk de afvalstoffen na. Rapporteer de afvalstof - indien nodig - in een afvalfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Vierde afvalfiche ontbrekend",
     "error": "Fiche105",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet gerapporteerd in een afvalfiche: XXX\nRapporteer de afvalstof in een afvalfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8417,14 +8432,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche niet gebruikt - vijfde ontbrekende fiche",
+    "description": "Vierde afvalfiche mogelijks ontbrekend",
+    "error": "Fiche105",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend afvalstof gerapporteerd diende te worden in een afvalfiche: XXX\nKijk de afvalstoffen na. Rapporteer de afvalstof - indien nodig - in een afvalfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Vijfde afvalfiche ontbrekend",
     "error": "Fiche110",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet gerapporteerd in een afvalfiche: XXX\nRapporteer de afvalstof in een afvalfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8432,14 +8462,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche niet gebruikt - zesde ontbrekende fiche",
+    "description": "Vijfde afvalfiche mogelijks ontbrekend",
+    "error": "Fiche110",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend afvalstof gerapporteerd diende te worden in een afvalfiche: XXX\nKijk de afvalstoffen na. Rapporteer de afvalstof - indien nodig - in een afvalfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Zesde afvalfiche ontbrekend",
     "error": "Fiche115",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet gerapporteerd in een afvalfiche: XXX\nRapporteer de afvalstof in een afvalfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8447,14 +8492,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche niet gebruikt - zevende ontbrekende fiche",
+    "description": "Zevende afvalfiche mogelijks ontbrekend",
     "error": "Fiche120",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend afvalstof gerapporteerd diende te worden in een afvalfiche: XXX\nKijk de afvalstoffen na. Rapporteer de afvalstof - indien nodig - in een afvalfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Zevende afvalfiche ontbrekend",
+    "error": "Fiche120",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet gerapporteerd in een afvalfiche: XXX\nRapporteer de afvalstof in een afvalfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8462,14 +8522,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "afvalfiche niet gebruikt - achtste ontbrekende fiche",
+    "description": "Zevende afvalfiche mogelijks ontbrekend",
+    "error": "Fiche120",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend afvalstof gerapporteerd diende te worden in een afvalfiche: XXX\nKijk de afvalstoffen na. Rapporteer de afvalstof - indien nodig - in een afvalfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Achtste afvalfiche ontbrekend",
     "error": "Fiche125",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet gerapporteerd in een afvalfiche: XXX\nRapporteer de afvalstof in een afvalfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8477,14 +8552,29 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche niet gebruikt - negende ontbrekende fiche",
+    "description": "Achtste afvalfiche mogelijks ontbrekend",
+    "error": "Fiche125",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend afvalstof gerapporteerd diende te worden in een afvalfiche: XXX\nKijk de afvalstoffen na. Rapporteer de afvalstof - indien nodig - in een afvalfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Negende afvalfiche ontbrekend",
     "error": "Fiche130",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet gerapporteerd in een afvalfiche: XXX\nRapporteer de afvalstof in een afvalfiche.",
       "category": 3,
       "explanation": ""
     }
@@ -8492,16 +8582,46 @@
   {
     "tab": "Fichebibliotheek",
     "parameter": "Gebruik afvalfiche",
-    "description": "Afvalfiche niet gebruikt - tiende ontbrekende fiche",
+    "description": "Negende afvalfiche mogelijks ontbrekend",
+    "error": "Fiche130",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend afvalstof gerapporteerd diende te worden in een afvalfiche: XXX\nKijk de afvalstoffen na. Rapporteer de afvalstof - indien nodig - in een afvalfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Tiende afvalfiche ontbrekend",
     "error": "Fiche135",
     "modifyClarification": true,
-    "greenDescription": false,
+    "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nVolgend afvalstof werd niet gerapporteerd in een afvalfiche: XXX\nRapporteer de afvalstof in een afvalfiche.",
       "category": 3,
       "explanation": ""
+    }
+  },
+  {
+    "tab": "Fichebibliotheek",
+    "parameter": "Gebruik afvalfiche",
+    "description": "Tiende afvalfiche mogelijks ontbrekend",
+    "error": "Fiche135",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Nee",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.8.5.3 beschrijft de afvalstoffen die de asbestdeskundige in een afvalfiche dient op te nemen. \n\nNa controle kan niet met zekerheid vastgesteld worden of volgend afvalstof gerapporteerd diende te worden in een afvalfiche: XXX\nKijk de afvalstoffen na. Rapporteer de afvalstof - indien nodig - in een afvalfiche.",
+      "category": 0,
+      "explanation": "Niet zeker."
     }
   },
   {
