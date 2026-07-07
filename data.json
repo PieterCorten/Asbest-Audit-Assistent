@@ -6214,7 +6214,7 @@
     "parameter": "Bijkomend onderzoek",
     "description": "Geen bijkomende staalname aangeduid",
     "error": "Bron466",
-    "modifyClarification": true,
+    "modifyClarification": false,
     "greenDescription": true,
     "defaults": {
       "nc": "Ja",
