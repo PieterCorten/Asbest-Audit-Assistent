@@ -2830,8 +2830,8 @@
       "nc": "Ja",
       "impact": "Nee",
       "clarification": "In de afvalfiche dient de asbestdeskundige aan te duiden of de gerapporteerde afvalstoffen stock/gedemonteerde toepassingen of resten (contaminatie) zijn. \n\nHet type afval werd niet correct gekozen. \nKies voor: \n- resten(contaminatie) van verwering of beschadiging  \n- stock-voorraad of gedemonteerde (asbest)toepassing.",
-      "category": 4,
-      "explanation": "geen impact op veiligheid of de waarde van het pand"
+      "category": 3,
+      "explanation": ""
     }
   },
   {
@@ -12393,7 +12393,7 @@
     "tab": "Lokalisatie - Constructieplannen",
     "parameter": "Inspectie-eenheden - algemeen",
     "description": "Inspectie-eenheden niet correct benoemd maar voldoende duidelijk",
-    "error": "Loka305",
+    "error": "Loka310",
     "modifyClarification": false,
     "greenDescription": true,
     "defaults": {
@@ -12401,7 +12401,7 @@
       "impact": "Nee",
       "clarification": "IP2 titel 6.3.4 beschrijft de inspectie-eenheden. \n\nDe namen van de inspectie-eenheden zijn niet correct. \nGeef de inspectie-eenheden een correcte en toepasselijke naam.",
       "category": 4,
-      "explanation": "Niet onduidelijk."
+      "explanation": ""
     }
   },
   {
