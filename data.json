@@ -6307,10 +6307,10 @@
     "modifyClarification": true,
     "greenDescription": true,
     "defaults": {
-      "nc": "Nee",
+      "nc": "Ja",
       "impact": "Nee",
       "clarification": "IP2 titel 5.12 beschrijft de adviezen over het veilige beheer en de veilige verwijdering van de asbesthoudende materialen.\n\nDe maatregel over het hemelwater is enkel van toepassing voor dak -en gevelbekleding in asbestcement en niet voor dekstenen/roofing/rookgasafvoer.\nVerwijder deze maatregel. \n\nDe maatregel houdt geen rekening met de gekozen eenvoudig bereikbaarheid van het materiaal. \nKies de juiste maatregel in functie van de eenvoudig bereikbaarheid van het materiaal.",
-      "category": 0,
+      "category": 4,
       "explanation": "geen impact op veiligheid of waarde van het pand"
     }
   },
