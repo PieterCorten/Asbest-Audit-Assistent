@@ -4432,8 +4432,8 @@
     "modifyClarification": false,
     "greenDescription": true,
     "defaults": {
-      "nc": "",
-      "impact": "",
+      "nc": "Ja",
+      "impact": "Nee",
       "clarification": "IP2 titel 6.3.5 beschrijft de plannen. \n\nDe toepassing of zone werd niet correct aangeduid op de constructieplannen of de plattegrond. \nAnnoteer elke toepassing of zone correct op de constructieplannen of de plattegrond.",
       "category": 3,
       "explanation": ""
