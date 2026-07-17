@@ -10592,216 +10592,6 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Tweede bron gemist",
-    "error": "Terr122",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Derde bron gemist",
-    "error": "Terr123",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Vierde bron gemist",
-    "error": "Terr124",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Vijfde bron gemist",
-    "error": "Terr125",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Zesde bron gemist",
-    "error": "Terr126",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Zevende bron gemist",
-    "error": "Terr127",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Achtste bron gemist",
-    "error": "Terr128",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Negende bron gemist",
-    "error": "Terr129",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Tiende bron gemist",
-    "error": "Terr131",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Elfde bron gemist",
-    "error": "Terr132",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Twaalfde bron gemist",
-    "error": "Terr133",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Dertiende bron gemist",
-    "error": "Terr136",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Veertiende bron gemist",
-    "error": "Terr137",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Vijftiende bron gemist",
-    "error": "Terr138",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
     "description": "Andere",
     "error": "Terr134",
     "modifyClarification": true,
@@ -11449,6 +11239,216 @@
     "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
     "description": "Eerste bron gemist",
     "error": "Terr121",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Tweede bron gemist",
+    "error": "Terr122",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Derde bron gemist",
+    "error": "Terr123",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Vierde bron gemist",
+    "error": "Terr124",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Vijfde bron gemist",
+    "error": "Terr125",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Zesde bron gemist",
+    "error": "Terr126",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Zevende bron gemist",
+    "error": "Terr127",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Achtste bron gemist",
+    "error": "Terr128",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Negende bron gemist",
+    "error": "Terr129",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Tiende bron gemist",
+    "error": "Terr131",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Elfde bron gemist",
+    "error": "Terr132",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Twaalfde bron gemist",
+    "error": "Terr133",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Dertiende bron gemist",
+    "error": "Terr136",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Veertiende bron gemist",
+    "error": "Terr137",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Vijftiende bron gemist",
+    "error": "Terr138",
     "modifyClarification": true,
     "greenDescription": true,
     "defaults": {
