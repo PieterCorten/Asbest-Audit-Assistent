@@ -10291,21 +10291,6 @@
   },
   {
     "tab": "Kwaliteit - Controles",
-    "parameter": "Onderzoeksmethode - werkwijze plaatsbezoek",
-    "description": "Niet efficiënt werken",
-    "error": "Terr70",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 0,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
     "parameter": "Inspectiegebied - volledigheid",
     "description": "Andere",
     "error": "Terr74",
@@ -10391,6 +10376,21 @@
       "impact": "",
       "clarification": "",
       "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Onderzoeksmethode - werkwijze plaatsbezoek",
+    "description": "Niet efficiënt werken",
+    "error": "Terr70",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 0,
       "explanation": ""
     }
   },
@@ -10531,21 +10531,6 @@
   },
   {
     "tab": "Kwaliteit - Controles",
-    "parameter": "Monstername - zorgvuldigheid en veiligheid",
-    "description": "Foutief hanteren gereedschap",
-    "error": "Terr115",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
     "parameter": "Onderzoeksmethode - basisuitrusting",
     "description": "PA: Niet alle materiaal beschreven in KBS",
     "error": "Terr118",
@@ -10601,21 +10586,6 @@
       "impact": "",
       "clarification": "",
       "category": "",
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Eerste bron gemist",
-    "error": "Terr121",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
       "explanation": ""
     }
   },
@@ -10819,21 +10789,6 @@
     "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
     "description": "Vijftiende bron gemist",
     "error": "Terr138",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Ja",
-      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
-    "description": "Zestiende bron gemist",
-    "error": "Terr139",
     "modifyClarification": true,
     "greenDescription": true,
     "defaults": {
@@ -11056,21 +11011,6 @@
   },
   {
     "tab": "Kwaliteit - Controles",
-    "parameter": "Onderzoeksmethode - uitvoerder",
-    "description": "Inspectie gebeurt niet door een persoonsgecertificeerde ADI",
-    "error": "Terr225",
-    "modifyClarification": true,
-    "greenDescription": false,
-    "defaults": {
-      "nc": "",
-      "impact": "",
-      "clarification": "",
-      "category": 2,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
     "parameter": "Communicatie - communicatie met opdrachtgever en/of gebruiker",
     "description": "Niet informeren van de opdrachtgever/gebruiker",
     "error": "Terr230",
@@ -11101,6 +11041,21 @@
   },
   {
     "tab": "Kwaliteit - Controles",
+    "parameter": "Onderzoeksmethode - uitvoerder",
+    "description": "Inspectie gebeurt niet door een persoonsgecertificeerde ADI",
+    "error": "Terr225",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
     "parameter": "Monstername - uitvoerder",
     "description": "Monstername gebeurt niet door een persoonsgecertificeerde ADI",
     "error": "Terr245",
@@ -11126,6 +11081,21 @@
       "impact": "",
       "clarification": "",
       "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Monstername - zorgvuldigheid en veiligheid",
+    "description": "Foutief hanteren gereedschap",
+    "error": "Terr115",
+    "modifyClarification": true,
+    "greenDescription": false,
+    "defaults": {
+      "nc": "",
+      "impact": "",
+      "clarification": "",
+      "category": 3,
       "explanation": ""
     }
   },
@@ -11237,21 +11207,6 @@
   {
     "tab": "Kwaliteit - Controles",
     "parameter": "Monstername - zorgvuldigheid en veiligheid",
-    "description": "Monsternamepunt verkeerd benaderd",
-    "error": "Terr280",
-    "modifyClarification": true,
-    "greenDescription": true,
-    "defaults": {
-      "nc": "Ja",
-      "impact": "Nee",
-      "clarification": "IP2 titel 5.9.2.1 beschrijft de zorgvuldigheid en veiligheid tijdens de monstername. \n\nHet monsternamepunt werd niet zorgvuldig benaderd. Situatie: XXX.\nSchenk voldoende aandacht aan de voorbereiding van de monstername.",
-      "category": 3,
-      "explanation": ""
-    }
-  },
-  {
-    "tab": "Kwaliteit - Controles",
-    "parameter": "Monstername - zorgvuldigheid en veiligheid",
     "description": "Propere en vuile zone leidt tot verontreiniging",
     "error": "Terr280",
     "modifyClarification": false,
@@ -11306,6 +11261,21 @@
       "impact": "",
       "clarification": "",
       "category": 2,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Monstername - zorgvuldigheid en veiligheid",
+    "description": "Monsternamepunt verkeerd benaderd",
+    "error": "Terr280",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Nee",
+      "clarification": "IP2 titel 5.9.2.1 beschrijft de zorgvuldigheid en veiligheid tijdens de monstername. \n\nHet monsternamepunt werd niet zorgvuldig benaderd. Situatie: XXX.\nSchenk voldoende aandacht aan de voorbereiding van de monstername.",
+      "category": 3,
       "explanation": ""
     }
   },
@@ -11471,6 +11441,36 @@
       "impact": "",
       "clarification": "",
       "category": "",
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Eerste bron gemist",
+    "error": "Terr121",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
+      "explanation": ""
+    }
+  },
+  {
+    "tab": "Kwaliteit - Controles",
+    "parameter": "Materialen - volledigheid - ontbrekend materiaal (bronfiche)",
+    "description": "Zestiende bron gemist",
+    "error": "Terr139",
+    "modifyClarification": true,
+    "greenDescription": true,
+    "defaults": {
+      "nc": "Ja",
+      "impact": "Ja",
+      "clarification": "IP2 titel 5.8.5.1 beschrijft de inspecteerbare materialen die de asbestdeskundige in een bronfiche dient op te nemen. \n\nVolgend inspecteerbaar materiaal werd niet onderzocht: XXX\nDit materiaal kan ondergebracht worden onder volgend punt: \n- inspecteerbare materialen, met uitzondering van afvloei- en afdruipzones, afvalstoffen en roerende goederen. Dat geldt ook als de materialen na identificatie niet-asbesthoudend blijken te zijn, waardoor risico-evaluatie niet nodig is;\n- inspecteerbare vezelcementmaterialen die niet-asbestverdacht zijn. De asbestdeskundige beschrijft ze in de bronfiche als niet-asbesthoudend op basis van een bewijsdocument (andere dan bestaande laboanalyse) en de bevestiging door vaststelling en expertise;\n- inspecteerbare materialen van een andere eigenaar, die geen onderdeel uitmaken van een aparte constructie;\n- inspecteerbare materialen van een gemene muur of afscheiding;\n- bij het onderzoek van een privatieve kavel: inspecteerbare materialen van de gemene delen;\n- bij het onderzoek van de gemene delen: inspecteerbare materialen die toebehoren aan een privatieve kavel.\nOnderzoek steeds alle inspecteerbare materialen die zich in het inspectiegebied bevinden.",
+      "category": 3,
       "explanation": ""
     }
   },
